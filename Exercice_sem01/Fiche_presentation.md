@@ -1,6 +1,6 @@
 # Olivier Leconte
 
-![photo] (photo.jpg)
+![photo] Exercice_sem01/medias/photo.jpg
 
 
 Voici une photo de moi en début 2023 à une fête d'un ami à mon père.
