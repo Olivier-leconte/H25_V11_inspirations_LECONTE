@@ -1,1 +1,1 @@
-| Un chimistre dans un bouillon | ![photo](medias/le_banquet.jpg)
+| Un chimistre dans un bouillon | ![photo] (medias/le_banquet.jpg)
