@@ -8,4 +8,6 @@ Voici une photo de moi devant l'entrée de l'édifice de l'exposition du Banquet
 
 
 # Un chimistre dans un bouillon
-Voici le sujet, dont je vais vous parlez dans ce blogue.
+Voici le sujet, dont je vais vous parlez dans ce blogue. ![photo](Medias/bouillon_vue_ensemble.jfif)
+
+
