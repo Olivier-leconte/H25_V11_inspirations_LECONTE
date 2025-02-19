@@ -3,5 +3,7 @@
  Dans cette découverte, j'ai pu voir plusieurs projets qui font parties du multimédia et je suis content de vous partagez
  celui que j'ai pris. |![photo](Medias/le_banquet.JPG)|
 
-Voici une photo de moi devant l'entrée de l'édifice de l'exposition du Banquet. ![photo](Medias/entrée_01.png)|
+# Lieu de mise en exposition
+Voici une photo de moi devant l'entrée de l'édifice de l'exposition du Banquet.   ![photo](Medias/entrée_01.png)|
+
 |Titre du dispositif choisi | ![photo](Medias/bouillon_titre.jfif)
