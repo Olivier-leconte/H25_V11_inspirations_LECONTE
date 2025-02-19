@@ -7,7 +7,8 @@
 Voici une photo de moi devant l'entrée de l'édifice de l'exposition du Banquet.   ![photo](Medias/entrée_01.png)
 
 
-# Un chimistre dans un bouillon
-Voici le sujet, dont je vais vous parlez dans ce blogue. ![photo](Medias/bouillon_vue_ensemble.jfif)
+# Un chimiste dans un bouillon
+Voici à quoi ressemble le projet dans sa globalité. Un chimiste dans un bouillon est un type d'exposition intérieure qui propose à des personnes
+comment fonctionne le mélange d'aliments et comment elles se mélangent entres eux. ![photo](Medias/bouillon_vue_ensemble.jfif)
 
 
