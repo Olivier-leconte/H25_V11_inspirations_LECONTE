@@ -8,7 +8,7 @@ Voici une photo de moi devant l'entrée de l'édifice de l'exposition du Banquet
 
 
 # Un chimiste dans un bouillon
-Voici à quoi ressemble le projet dans sa globalité. Un chimiste dans un bouillon est un type d'exposition intérieure qui propose à des personnes
+Voici à quoi ressemble le projet dans sa globalité. Un chimiste dans un bouillon est un type d'exposition intérieure qui propose aux personnes curieuses
 comment fonctionne le mélange d'aliments et comment elles se mélangent entres eux. J'ai visité l'exposition Jeudi le 30 Janvier 2025 au vieux port de Montréal.
 ![photo](Medias/bouillon_vue_ensemble.jfif)
 
