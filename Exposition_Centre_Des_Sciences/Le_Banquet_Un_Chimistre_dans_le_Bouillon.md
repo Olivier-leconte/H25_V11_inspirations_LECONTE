@@ -4,6 +4,8 @@
  celui que j'ai pris. ![photo](Medias/le_banquet.JPG)
 
 # Lieu de mise en exposition
-Voici une photo de moi devant l'entrée de l'édifice de l'exposition du Banquet.   ![photo](Medias/entrée_01.png)|
+Voici une photo de moi devant l'entrée de l'édifice de l'exposition du Banquet.   ![photo](Medias/entrée_01.png)
 
-|Titre du dispositif choisi | ![photo](Medias/bouillon_titre.jfif)
+
+# Un chimistre dans un bouillon
+Voici le sujet, dont je vais vous parlez dans ce blogue.
