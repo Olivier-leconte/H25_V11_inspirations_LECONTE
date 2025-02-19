@@ -1,4 +1,4 @@
- Bienvenue chez le Centre des Sciences font-weight: 700;
+ p { Bienvenue chez le Centre des Sciences font-size: 150%; }
  | Un chimistre dans un bouillon |![photo](Medias/le_banquet.JPG)|
 
 |Lieu de mise en exposition | ![photo](Medias/entrée_01.png)|
