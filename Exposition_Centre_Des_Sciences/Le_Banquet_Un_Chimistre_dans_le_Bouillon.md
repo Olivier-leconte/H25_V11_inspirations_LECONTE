@@ -12,7 +12,7 @@ comment fonctionne le mélange d'aliments et comment elles se mélangent entres 
 ![photo](Medias/bouillon_vue_ensemble.jfif)
 
 # Nom de la firme 
- Dans ces photos nous montre Une photo montreant le titre du projet ainsi qu'un texte expliquant comment le gras se diffuse à travers les aliments. ![photo](Medias/Bouillon_titre_jfif)
+ Dans ces photos nous montre Une photo montreant le titre du projet ainsi qu'un texte expliquant comment le gras se diffuse à travers les aliments. ![photo](Medias/Bouillon_titre.jfif)
 
 
 
