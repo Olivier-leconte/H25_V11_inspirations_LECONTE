@@ -13,7 +13,7 @@ comment fonctionne le mélange d'aliments et comment elles se mélangent entres 
 ![photo](Medias/bouillon_vue_ensemble.jfif)
 
 # Nom de la firme 
- Dans cette image, nous pouvons constatez quew 
+ Dans cette image, nous pouvons constatez comment fonctionne les aliments lorsqu'ils sont bouillons dans une soupe.
 
 
 
