@@ -27,3 +27,7 @@ Voici une autre vue d'un autre angle qui permet de voir les autres choses sur la
 Alors, l'espace reservé est vraiment voyant. Lorsque quelqu'un rentre dans le Banquet, il voit un projet, mais juste après il voit le chimiste dans un bouillon. 
 Le choix d'avoir mit le projet ici dès le début est un geste incroyable parce que cela encourage les jeunes à voir comment la cuisine fonctionne et ouvre la porte de la cuisine aux jeunes. ![photo](Medias/bouillon_entre.jfif)
 
+ # Composantes et techniques et Élements nécessaires à la mise en exposition
+ Bon sur ce point ils n'y a pas beaucoup d'éléments relever à la technique multimédia. Cependant, le projet avait un projet dans la table, ce qui, amenait à voir dans la casserole. Ensuite, deux bouttons qui avaient pour but d'activer le lancement de la vidéo en 2 langues. Après, en dessous de la table, avait 3 gros blocs qui projettaient de la lumières. Les trois possèdes des cables qu'on ne peut pas voir qui illumine les 3 bloques.il avait des projetteurs dans le plafond, mais il y en partout dans l'exposition, donc je le compte pas vraiment dans le projet.
+
+ # Expérience vécue et ce qui ma plus
