@@ -29,7 +29,7 @@ Le choix d'avoir mit le projet ici dès le début est un geste incroyable parce 
 
  # Composantes et techniques et Élements nécessaires à la mise en exposition
  Bon sur ce point ils n'y a pas beaucoup d'éléments relever à la technique multimédia. Cependant, le projet avait un projet dans la table, ce qui, amenait à voir dans la casserole. Ensuite, deux bouttons qui avaient pour but d'activer le lancement de la vidéo en 2 langues. Après, en dessous de la table, avait 3 gros blocs qui projettaient de la lumières. Les trois possèdes des cables qu'on ne peut pas voir qui illumine les 3 bloques. La table avait aussi un dispositif qui permet de voir un écran depuis la table. il avait des projetteurs dans le plafond, mais il y en partout dans l'exposition, donc je le compte pas vraiment dans le projet.
- ![photo](Medias/bouillon_titre.jfif)
+ ![photo](Medias/bouillon_titre.jfif) ![photo](Medias/bouillon_vue_ensemble.jfif)
 
  # Expérience vécue et ce qui ma plus
  Ce qui ma plu dans le projet ces la facilité d'en apprendre plus sur la cuisine. en effet, elle permet aux jeunes d'avoir une excellent alimentation saine qui leur permettra de bien se nourrir et d'etre en santé. Les jeunes auront une autonomie à créer des plats incroyables sans à avoir des doutes sur quoi va avec quoi. Ceci permettra d'etre créatif avec ce qui son dans les mains. La motivation de devenir meilleur dans ce domaine. Pour finir, elle permet de réduire le gaspillage dans la nourriture malsain comme Mcdonald, Burgerking, Subways, etc. En réduisant ils deviennent plus responsable. 
