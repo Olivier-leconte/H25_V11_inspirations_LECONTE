@@ -15,6 +15,7 @@ comment fonctionne le mélange d'aliments et comment elles se mélangent entres 
 # Nom de la firme 
  Dans cette image, nous pouvons constatez comment fonctionne les aliments lorsqu'ils sont bouillis dans une soupe. De plus, le language utilisé facilite la compréhension du texte. Utiliser des images et montrer les différentes choses qui arrivent pendant la cuisson est parfaitement mise en place. L'anné de production à été fait en 2024 d'où la clairvoyance dans les mots ou dessin. ![photo](Medias/Bouillon_explication.jpg)
 
-
-
+# Description de l'oeuvre
+ Sur la table du chimiste dans le bouillon, il possède deux poèles, 3 affiches et un écran qui nous permets de voir comment fonctionne fonctionne de plus près les mélanges d'ingrédients pour faire un bon repas. Le type d'installation est immersive parce que comme on peut constater nous sommes à l'interieur de la caserrole. À
+partir de là, le cuisiner nous montres comment tout fonctionne. À des momments, il va gouter comme s'il etait vraiment dans la cuisson. Enfin, les poeles nous permets d'en connaitre plus sur les compatibilités que offres les aliments mises ensembles. Encore une fois, les mots choisis, les images choisis et les couleurs choisis sont très faciles à comprendre pour des jeunes enfants ou adolescents, car ces couleurs vives permettent d'attirer et cela est vraiment intéressant.
 
