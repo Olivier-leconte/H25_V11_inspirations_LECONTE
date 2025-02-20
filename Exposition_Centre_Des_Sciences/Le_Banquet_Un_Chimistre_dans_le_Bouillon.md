@@ -13,8 +13,7 @@ comment fonctionne le mélange d'aliments et comment elles se mélangent entres 
 ![photo](Medias/bouillon_vue_ensemble.jfif)
 
 # Nom de la firme 
- Dans cette image, nous pouvons constatez comment fonctionne les aliments lorsqu'ils sont bouillons dans une soupe.
-
+ Dans cette image, nous pouvons constatez comment fonctionne les aliments lorsqu'ils sont bouillis dans une soupe. De plus, le language utilisé facilite la compréhension du texte. Utiliser des images et montrer les différentes choses qui arrivent pendant la cuisson est parfaitement mise en place. L'anné de production à été fait en 2024 d'où la clairvoyance dans les mots ou dessin. ![photo](Medias/Bouillon_explication.jpg)
 
 
 
