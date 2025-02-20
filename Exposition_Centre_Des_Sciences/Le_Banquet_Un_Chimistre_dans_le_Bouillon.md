@@ -21,5 +21,6 @@ partir de là, le cuisiner nous montres comment tout fonctionne. À des momments
 ![photo](Medias/Bouillon_vue_du_projet.jpg)
 
 #Voici une autre vue d'un autre angle
+![photo](Medias/Bouillon_vue_diagonale.jpg)
 
 
