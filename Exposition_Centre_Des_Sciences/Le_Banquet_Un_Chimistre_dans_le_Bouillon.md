@@ -23,4 +23,7 @@ partir de là, le cuisiner nous montres comment tout fonctionne. À des momments
 Voici une autre vue d'un autre angle qui permet de voir les autres choses sur la table.
 ![photo](Medias/Bouillon_vue_diagonale.jpg)
 
+# Mise en espace
+Alors, l'espace reservé est vraiment voyant. Lorsque quelqu'un rentre dans le Banquet, il voit un projet, mais juste après il voit le chimiste dans un bouillon. 
+Le choix d'avoir mit le projet ici dès le début est un geste incroyable parce que cela encourage les jeunes à voir comment la cuisine fonctionne et ouvre la porte de la cuisine aux jeunes. ![photo](Medias/bouillon_entre.jfif)
 
