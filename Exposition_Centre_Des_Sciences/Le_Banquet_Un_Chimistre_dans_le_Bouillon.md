@@ -32,3 +32,9 @@ Le choix d'avoir mit le projet ici dès le début est un geste incroyable parce 
  ![photo](Medias/bouillon_titre.jfif)
 
  # Expérience vécue et ce qui ma plus
+ Ce qui ma plu dans le projet ces la facilité d'en apprendre plus sur la cuisine. en effet, elle permet aux jeunes d'avoir une excellent alimentation saine qui leur permettra de bien se nourrir et d'etre en santé. Les jeunes auront une autonomie à créer des plats incroyables sans à avoir des doutes sur quoi va avec quoi. Ceci permettra d'etre créatif avec ce qui son dans les mains. La motivation de devenir meilleur dans ce domaine. Pour finir, elle permet de réduire le gaspillage dans la nourriture malsain comme Mcdonald, Burgerking, Subways, etc. En réduisant ils deviennent plus responsable. 
+ Voici une vidéo explicative du projet de quelques secondes. 
+
+
+
+ Merci beaucoup. 
