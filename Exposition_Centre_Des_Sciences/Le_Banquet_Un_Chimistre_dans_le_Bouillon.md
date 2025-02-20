@@ -9,7 +9,7 @@
 
 # Un chimiste dans un bouillon
 Voici à quoi ressemble le projet dans sa globalité. Un chimiste dans un bouillon est un type d'exposition intérieure qui propose aux personnes curieuses
-comment fonctionne le mélange d'aliments et comment elles se mélangent entres eux.  
+comment fonctionne le mélange d'aliments et comment elles se mélangent entres eux. Le problème étant qu'il est temporaire. Alors Dépechez vous à y aller.   
 ![photo](Medias/bouillon_vue_ensemble.jfif)
 
 # Nom de la firme 
