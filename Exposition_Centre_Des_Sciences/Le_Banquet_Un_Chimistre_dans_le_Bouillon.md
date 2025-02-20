@@ -20,7 +20,7 @@ comment fonctionne le mélange d'aliments et comment elles se mélangent entres 
 partir de là, le cuisiner nous montres comment tout fonctionne. À des momments, il va gouter comme s'il etait vraiment dans la cuisson. Enfin, les poeles nous permets d'en connaitre plus sur les compatibilités que offres les aliments mises ensembles. Encore une fois, les mots choisis, les images choisis et les couleurs choisis sont très faciles à comprendre pour des jeunes enfants ou adolescents, car ces couleurs vives permettent d'attirer et cela est vraiment intéressant. 
 ![photo](Medias/Bouillon_vue_du_projet.jpg)
 
-#Voici une autre vue d'un autre angle
+Voici une autre vue d'un autre angle qui permet de voir les autres choses sur la table.
 ![photo](Medias/Bouillon_vue_diagonale.jpg)
 
 
