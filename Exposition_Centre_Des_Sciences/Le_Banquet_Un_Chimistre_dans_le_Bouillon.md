@@ -29,5 +29,6 @@ Le choix d'avoir mit le projet ici dès le début est un geste incroyable parce 
 
  # Composantes et techniques et Élements nécessaires à la mise en exposition
  Bon sur ce point ils n'y a pas beaucoup d'éléments relever à la technique multimédia. Cependant, le projet avait un projet dans la table, ce qui, amenait à voir dans la casserole. Ensuite, deux bouttons qui avaient pour but d'activer le lancement de la vidéo en 2 langues. Après, en dessous de la table, avait 3 gros blocs qui projettaient de la lumières. Les trois possèdes des cables qu'on ne peut pas voir qui illumine les 3 bloques. La table avait aussi un dispositif qui permet de voir un écran depuis la table. il avait des projetteurs dans le plafond, mais il y en partout dans l'exposition, donc je le compte pas vraiment dans le projet.
+ ![photo](Medias/bouillon_titre.jfif)
 
  # Expérience vécue et ce qui ma plus
