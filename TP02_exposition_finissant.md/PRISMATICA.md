@@ -3,5 +3,5 @@ Bonjour, je vais vous parlez des projets finissants en Tim.
 
 
 # PRISMATICA
-![photo](Prismatica.png)
+![photo](media/Prismatica.png)
 
