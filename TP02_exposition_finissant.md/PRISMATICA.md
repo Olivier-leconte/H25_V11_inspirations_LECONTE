@@ -21,4 +21,4 @@ ordre de 1 à 10 selon les projets préférés.
 
 Voici l'ordre dans laquelle j'ai aimé voir les projets. Bref, sans plus vous faire attendre voici le projet que j'ai le plus aimé.
 # PRISMATICA
-![photo](media/Prismatica.png)
+ en  effet, Prismatica est le ![photo](media/Prismatica.png)
