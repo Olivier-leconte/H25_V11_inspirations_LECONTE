@@ -19,11 +19,15 @@ ordre de 1 à 10 selon les projets préférés.
      Camilia Bouatmani : Directrice Artistique 
      Ihab Mouhajer : Développeur intéractif
 
-
 3 - Arcadia
 
-4 - C0N DU8
 
+4 - C0N DU8
+     Ian Corbin :
+     Samuel Desmeules-Voyer :
+     Alexandre Gervais :
+     Keven Malric :
+     Jérémy Roy-Coté :
 5 - ETHERIA
 
 6 - FUGA
