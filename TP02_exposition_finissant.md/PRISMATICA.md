@@ -13,9 +13,9 @@ ordre de 1 à 10 selon les projets préférés.
 
 2 - Luminatura
 
-     Prethiah Rajaratnam :  Programmeuse et administratrice du projet
-     Audrey Dandurand :  Directrice Audio Visuel et Gestionnaire de projet
-     Justine Rousseau :  Programmeuse Coordinatrice des medias
+     Prethiah Rajaratnam : Programmeuse et administratrice du projet
+     Audrey Dandurand : Directrice Audio Visuel et Gestionnaire de projet
+     Justine Rousseau : Programmeuse Coordinatrice des medias
      Camilia Bouatmani : Directrice Artistique 
      Ihab Mouhajer : Développeur intéractif
 
