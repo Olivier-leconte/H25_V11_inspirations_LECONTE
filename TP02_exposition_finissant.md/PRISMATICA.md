@@ -10,6 +10,7 @@ ordre de 1 à 10 selon les projets préférés.
    Ikrame Rata : Chef de projet.
    
    Vincent Delisle : Développeur et concepteur sonore. 
+   
    Jérémy Duverseau : Directeur artistique.
 
 2 - Luminatura
