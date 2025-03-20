@@ -5,35 +5,56 @@ ordre de 1 à 10 selon les projets préférés.
 
 # Ordre de préférence des projets.
 
-1 -  Prismatica
+1 - Prismatica
 
-    Ikrame Rata : Chef de projet
-    Vincent Delisle : Développeur et concepteur sonore 
-    Jérémy Duverseau : Directeur artistique
+   Ikrame Rata : Chef de projet.
+   Vincent Delisle : Développeur et concepteur sonore. 
+   Jérémy Duverseau : Directeur artistique.
 
 2 - Luminatura
 
-     Prethiah Rajaratnam : Programmeuse et administratrice du projet
-     Audrey Dandurand : Directrice Audio Visuel et Gestionnaire de projet
-     Justine Rousseau : Programmeuse Coordinatrice des medias
-     Camilia Bouatmani : Directrice Artistique 
-     Ihab Mouhajer : Développeur intéractif
+   Prethiah Rajaratnam : Programmeuse et administratrice du projet.
+   Audrey Dandurand : Directrice Audio Visuel et Gestionnaire de projet.
+   Justine Rousseau : Programmeuse Coordinatrice des medias.
+   Camilia Bouatmani : Directrice Artistique. 
+   Ihab Mouhajer : Développeur intéractif.
 
 3 - Arcadia
 
+   Dominic Yale : Conception sonore.
+   William Beauvais : Conception visuelle.
+   Anton Nikulin : Programmation.
 
 4 - C0N DU8
 
-     Ian Corbin :
-     Samuel Desmeules-Voyer :
-     Alexandre Gervais :
-     Keven Malric :
-     Jérémy Roy-Coté :
+   Ian Corbin : Designer de niveaux
+   Samuel Desmeules-Voyer :  Directeur artistique.
+   Alexandre Gervais : Programmeur des méchansimes.
+   Keven Malric : Responsable du développement technique.
+   Jérémy Roy-Coté : Programmeur Interconnectivité.
+     
 5 - ETHERIA
+
+    Joshua Gonzalez-Barrera : Monteur Vidéo, Artiste Design, Programmeur.
+    Victor Gileau : Programmeur, Artiste Design.
+    Michael Un Dupré : Programmeur, Artiste VFX/Design.
+    Pierre-Luc Proulx : Progammeur, Artiste VFX/Design, Artiste 3D.
+    Maik_Hamel : Compositeur Sonore, programmeur.
+
 
 6 - FUGA
 
-7- Internarture (pas vu malheureseument)
+    Yavuz-Selim Gucluer : Progammeur.
+    Daniel Dezemma : Directeur Visuel.
+    Tristan Khadka : Directeur sonore.
+    Abdel Ali Djeral : Programmeur.
+
+7- Internarture 
+    Sitmonternna Yi : Responsable de la gestion et suppervision des ressources techniques, mapping vidéo, conception sonore.
+    Delphine Grenier : Gestion et l'organisation du projet, Programmation de l'interactivité, visuelle.
+    Isaac Fafard : Intégrateur multimédia. Responsable de la communication entre le numérique et le réel. Programmeur.
+    Kenza El Harrif : Direction artistique, conception sonore.
+    Khaly Tia Sing : Chargée de l'équipe, l'organisation du projet, qualité des projets, programmation des lumières
 
 Voici l'ordre dans laquelle j'ai aimé voir les projets. Bref, sans plus vous faire attendre voici le projet que j'ai le plus aimé.
 # PRISMATICA
