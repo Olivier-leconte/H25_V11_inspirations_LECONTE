@@ -50,6 +50,7 @@ ordre de 1 à 10 selon les projets préférés.
     Abdel Ali Djeral : Programmeur.
 
 7- Internarture 
+
     Sitmonternna Yi : Responsable de la gestion et suppervision des ressources techniques, mapping vidéo, conception sonore.
     Delphine Grenier : Gestion et l'organisation du projet, Programmation de l'interactivité, visuelle.
     Isaac Fafard : Intégrateur multimédia. Responsable de la communication entre le numérique et le réel. Programmeur.
