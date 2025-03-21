@@ -44,7 +44,7 @@ ordre de 1 à 10 selon les projets préférés.
 
 6 - FUGA
 
-    Yavuz-Selim Gucluer : Progammeur.
+    `Yavuz-Selim Gucluer` : Progammeur.
     Daniel Dezemma : Directeur Visuel.
     Tristan Khadka : Directeur sonore.
     Abdel Ali Djeral : Programmeur.
