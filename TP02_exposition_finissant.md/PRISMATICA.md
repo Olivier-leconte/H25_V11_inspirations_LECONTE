@@ -61,3 +61,5 @@ Voici l'ordre dans laquelle j'ai aimé voir les projets. Bref, sans plus vous fa
 # PRISMATICA
  En  effet, Prismatica est un projet qui se base sur la chromesthésie. Ils se basse sur  Le groupe d'étudiant au nom d'Ikrame Rata, Vincent Delisle et Jérémy Duverseau qui ont pour but d'afficher du son
  grâce à des couleurs dessinées sur un tableau blanc. ![photo](media/Prismatica.png)
+
+ # 
