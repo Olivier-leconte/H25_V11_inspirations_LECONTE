@@ -15,6 +15,7 @@ ordre de 1 à 10 selon les projets préférés.
    ![photo](media/Prismatica_plantation.jpg)
 
    Plantation au studio image représentative 1
+   Resource faite par Prismatica :   https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/ 
   
 #
 
