@@ -36,6 +36,7 @@ ordre de 1 à 10 selon les projets préférés.
     Dominic Yale : Conception sonore.
     William Beauvais : Conception visuelle.
     Anton Nikulin : Programmation.
+    
    
 #
 ## 4 - C0N DU8
