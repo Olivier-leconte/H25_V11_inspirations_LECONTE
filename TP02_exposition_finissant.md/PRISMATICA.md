@@ -49,7 +49,7 @@ ordre de 1 à 10 selon les projets préférés.
    
    #
      
-5 - ETHERIA
+## 5 - ETHERIA
 
     Joshua Gonzalez-Barrera : Monteur Vidéo, Artiste Design, Programmeur.
     Victor Gileau : Programmeur, Artiste Design.
@@ -59,7 +59,7 @@ ordre de 1 à 10 selon les projets préférés.
     
 
 #
-6 - FUGA
+ ## 6 - FUGA
 
     Yavuz-Selim Gucluer : Progammeur.
     Daniel Dezemma : Directeur Visuel.
@@ -67,7 +67,7 @@ ordre de 1 à 10 selon les projets préférés.
     Abdel Ali Djeral : Programmeur.
     
 #
-7- Internarture 
+## 7- Internarture 
 
     Sitmonternna Yi : Responsable de la gestion et suppervision des ressources techniques, mapping vidéo, conception sonore.
     Delphine Grenier : Gestion et l'organisation du projet, Programmation de l'interactivité, visuelle.
