@@ -39,6 +39,7 @@ ordre de 1 à 10 selon les projets préférés.
     Anton Nikulin : Programmation.
     
     ![photo](media/Arcadia_implantation.png)
+    Resource trouvée et partagée par Arcadia : https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/
 #
 ## 4 - C0N DU8
 
