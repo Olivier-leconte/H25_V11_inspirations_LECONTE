@@ -5,7 +5,7 @@ ordre de 1 à 10 selon les projets préférés.
 
 # Ordre de préférence des projets.
 
-## 1- Prismatica
+## 1 - Prismatica
  
     Ikrame Rata : Chef de projet.
     Vincent Delisle : Développeur et concepteur sonore. 
@@ -19,7 +19,7 @@ ordre de 1 à 10 selon les projets préférés.
   
 #
 
-2 - Luminatura
+## 2 - Luminatura
 
     Prethiah Rajaratnam : Programmeuse et administratrice du projet.
     Audrey Dandurand : Directrice Audio Visuel et Gestionnaire de projet.
@@ -31,14 +31,14 @@ ordre de 1 à 10 selon les projets préférés.
      Resource trouvée et partagée par Luminatura : https://miaou-mafia.github.io/projet-luminatura/#/20_intention/40_scenarimage/
  
 #
-3 - Arcadia
+## 3 - Arcadia
 
     Dominic Yale : Conception sonore.
     William Beauvais : Conception visuelle.
     Anton Nikulin : Programmation.
    
 #
-4 - C0N DU8
+## 4 - C0N DU8
 
      Ian Corbin : Designer de niveaux
      Samuel Desmeules-Voyer : Directeur artistique.
