@@ -15,14 +15,16 @@ ordre de 1 à 10 selon les projets préférés.
    ![photo](media/Prismatica_plantation.jpg)
 
    Plantation au studio image représentative 1
-   Resource trouvée et partagée par Prismatica :   https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/ 
+   Resource trouvée et partagée par Prismatica :  https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/ 
   
 #
 
 2 - Luminatura
 
    Prethiah Rajaratnam : Programmeuse et administratrice du projet.
+   
    Audrey Dandurand : Directrice Audio Visuel et Gestionnaire de projet.
+   
    Justine Rousseau : Programmeuse Coordinatrice des medias.
    Camilia Bouatmani : Directrice Artistique. 
    Ihab Mouhajer : Développeur intéractif.
