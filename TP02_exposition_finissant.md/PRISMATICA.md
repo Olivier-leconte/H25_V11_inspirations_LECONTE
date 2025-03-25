@@ -6,12 +6,16 @@ ordre de 1 à 10 selon les projets préférés.
 # Ordre de préférence des projets.
 
 1 - Prismatica
- ![photo](media/Prismatica_plantation.jpg)
  
    Ikrame Rata : Chef de projet.
    Vincent Delisle : Développeur et concepteur sonore. 
    Jérémy Duverseau : Directeur artistique.
+   Voici le plan qui résume où se trouve l'oeuvre
+
+  
+   Plantation au studio image représentative 1
 #
+
 2 - Luminatura
 
    Prethiah Rajaratnam : Programmeuse et administratrice du projet.
