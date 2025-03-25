@@ -10,7 +10,7 @@ ordre de 1 à 10 selon les projets préférés.
    Ikrame Rata : Chef de projet.
    Vincent Delisle : Développeur et concepteur sonore. 
    Jérémy Duverseau : Directeur artistique.
-
+#
 2 - Luminatura
 
    Prethiah Rajaratnam : Programmeuse et administratrice du projet.
@@ -18,13 +18,13 @@ ordre de 1 à 10 selon les projets préférés.
    Justine Rousseau : Programmeuse Coordinatrice des medias.
    Camilia Bouatmani : Directrice Artistique. 
    Ihab Mouhajer : Développeur intéractif.
-
+#
 3 - Arcadia
 
    Dominic Yale : Conception sonore.
    William Beauvais : Conception visuelle.
    Anton Nikulin : Programmation.
-
+#
 4 - C0N DU8
 
    Ian Corbin : Designer de niveaux
@@ -41,14 +41,14 @@ ordre de 1 à 10 selon les projets préférés.
     Pierre-Luc Proulx : Progammeur, Artiste VFX/Design, Artiste 3D.
     Maik_Hamel : Compositeur Sonore, programmeur.
 
-
+#
 6 - FUGA
 
     Yavuz-Selim Gucluer : Progammeur.
     Daniel Dezemma : Directeur Visuel.
     Tristan Khadka : Directeur sonore.
     Abdel Ali Djeral : Programmeur.
-
+#
 7- Internarture 
 
     Sitmonternna Yi : Responsable de la gestion et suppervision des ressources techniques, mapping vidéo, conception sonore.
