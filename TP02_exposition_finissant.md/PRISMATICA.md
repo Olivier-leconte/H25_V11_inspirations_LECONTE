@@ -37,7 +37,7 @@ ordre de 1 à 10 selon les projets préférés.
     William Beauvais : Conception visuelle.
     Anton Nikulin : Programmation.
     
-   
+    ![photo](media/Arcadia_implantation.png)
 #
 ## 4 - C0N DU8
 
