@@ -65,4 +65,4 @@ Voici l'ordre dans laquelle j'ai aimé voir les projets. Bref, sans plus vous fa
 
  
 
- # ![photo](media/PRISMATICA_finale_ensemble.jpg) 
+ #
