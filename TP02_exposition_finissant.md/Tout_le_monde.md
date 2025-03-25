@@ -13,13 +13,13 @@
    Camilia Bouatmani : Directrice Artistique. 
    Ihab Mouhajer : Développeur intéractif.
 
-### Arcadia
+## Arcadia
 
    Dominic Yale : Conception sonore.
    William Beauvais : Conception visuelle.
    Anton Nikulin : Programmation.
 
- #### C0N DU8
+ ## C0N DU8
 
    Ian Corbin : Designer de niveaux
    Samuel Desmeules-Voyer : Directeur artistique.
@@ -27,7 +27,7 @@
    Keven Malric : Responsable du développement technique.
    Jérémy Roy-Coté : Programmeur Interconnectivité.
      
- ##### ETHERIA
+ ## ETHERIA
 
     Joshua Gonzalez-Barrera : Monteur Vidéo, Artiste Design, Programmeur.
     Victor Gileau : Programmeur, Artiste Design.
@@ -36,14 +36,14 @@
     Maik_Hamel : Compositeur Sonore, programmeur.
 
 
-###### FUGA
+## FUGA
 
     Yavuz-Selim Gucluer : Progammeur.
     Daniel Dezemma : Directeur Visuel.
     Tristan Khadka : Directeur sonore.
     Abdel Ali Djeral : Programmeur.
 
-####### Internarture 
+## Internarture 
 
     Sitmonternna Yi : Responsable de la gestion et suppervision des ressources techniques, mapping vidéo, conception sonore.
     Delphine Grenier : Gestion et l'organisation du projet, Programmation de l'interactivité, visuelle.
