@@ -26,6 +26,8 @@ ordre de 1 à 10 selon les projets préférés.
    Justine Rousseau : Programmeuse Coordinatrice des medias.
    Camilia Bouatmani : Directrice Artistique. 
    Ihab Mouhajer : Développeur intéractif.
+   
+   
 #
 3 - Arcadia
 
