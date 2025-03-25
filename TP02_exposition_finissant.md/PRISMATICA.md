@@ -42,11 +42,11 @@ ordre de 1 à 10 selon les projets préférés.
 #
 4 - C0N DU8
 
-   Ian Corbin : Designer de niveaux
-   Samuel Desmeules-Voyer : Directeur artistique.
-   Alexandre Gervais : Programmeur des méchansimes.
-   Keven Malric : Responsable du développement technique.
-   Jérémy Roy-Coté : Programmeur Interconnectivité.
+     Ian Corbin : Designer de niveaux
+     Samuel Desmeules-Voyer : Directeur artistique.
+     Alexandre Gervais : Programmeur des méchansimes.
+     Keven Malric : Responsable du développement technique.
+     Jérémy Roy-Coté : Programmeur Interconnectivité.
    
    
    #
@@ -62,6 +62,7 @@ ordre de 1 à 10 selon les projets préférés.
 
 #
 6 - FUGA
+
     Yavuz-Selim Gucluer : Progammeur.
     Daniel Dezemma : Directeur Visuel.
     Tristan Khadka : Directeur sonore.
