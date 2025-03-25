@@ -27,7 +27,7 @@ ordre de 1 à 10 selon les projets préférés.
    Camilia Bouatmani : Directrice Artistique. 
    Ihab Mouhajer : Développeur intéractif.
    
-   
+    ![photo](media/Luminatura_plantation.jpg)
 #
 3 - Arcadia
 
