@@ -1,7 +1,7 @@
 
 # Prismatica
 
-![photo](Media/Prismatica_plantation.jpg)
+![photo](media/Prismatica_plantation.jpg)
    Ikrame Rata : Chef de projet.
    Vincent Delisle : Développeur et concepteur sonore. 
    Jérémy Duverseau : Directeur artistique.
