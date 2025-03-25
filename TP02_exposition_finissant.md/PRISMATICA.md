@@ -28,6 +28,7 @@ ordre de 1 à 10 selon les projets préférés.
    Ihab Mouhajer : Développeur intéractif.
    
    ![photo](media/Luminatura_plantation.jpg)
+     Resource trouvée et partagée par Luminatura : https://miaou-mafia.github.io/projet-luminatura/#/20_intention/40_scenarimage/
  
 #
 3 - Arcadia
