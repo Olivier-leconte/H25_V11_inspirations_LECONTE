@@ -10,11 +10,12 @@ ordre de 1 à 10 selon les projets préférés.
    Ikrame Rata : Chef de projet.
    Vincent Delisle : Développeur et concepteur sonore. 
    Jérémy Duverseau : Directeur artistique.
+   
    Voici le plan qui résume où se trouve l'oeuvre
    ![photo](media/Prismatica_plantation.jpg)
 
-  
    Plantation au studio image représentative 1
+  
 #
 
 2 - Luminatura
