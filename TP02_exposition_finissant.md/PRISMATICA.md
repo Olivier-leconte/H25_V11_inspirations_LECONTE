@@ -32,7 +32,7 @@ ordre de 1 à 10 selon les projets préférés.
    Alexandre Gervais : Programmeur des méchansimes.
    Keven Malric : Responsable du développement technique.
    Jérémy Roy-Coté : Programmeur Interconnectivité.
-     
+     #
 5 - ETHERIA
 
     Joshua Gonzalez-Barrera : Monteur Vidéo, Artiste Design, Programmeur.
