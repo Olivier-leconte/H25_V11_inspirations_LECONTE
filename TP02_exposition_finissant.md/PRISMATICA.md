@@ -38,6 +38,7 @@ ordre de 1 à 10 selon les projets préférés.
    Dominic Yale : Conception sonore.
    William Beauvais : Conception visuelle.
    Anton Nikulin : Programmation.
+   
 #
 4 - C0N DU8
 
@@ -46,6 +47,7 @@ ordre de 1 à 10 selon les projets préférés.
    Alexandre Gervais : Programmeur des méchansimes.
    Keven Malric : Responsable du développement technique.
    Jérémy Roy-Coté : Programmeur Interconnectivité.
+   
    
    #
      
@@ -56,6 +58,7 @@ ordre de 1 à 10 selon les projets préférés.
     Michael Un Dupré : Programmeur, Artiste VFX/Design.
     Pierre-Luc Proulx : Progammeur, Artiste VFX/Design, Artiste 3D.
     Maik_Hamel : Compositeur Sonore, programmeur.
+    
 
 #
 6 - FUGA
