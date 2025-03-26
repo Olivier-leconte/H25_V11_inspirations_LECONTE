@@ -49,7 +49,8 @@ ordre de 1 à 10 selon les projets préférés.
      Keven Malric : Responsable du développement technique.
      Jérémy Roy-Coté : Programmeur Interconnectivité.
    
-   ![photo](media/
+   ![photo](media/Con_Du8_plantation.jpg)
+   Resource trouvée et partagée par C0N DU8 sur leur site : https://gearshift-games.github.io/Web-C0N-DU8/#/30_production/60_plantation/
    #
      
 ## 5 - ETHERIA
