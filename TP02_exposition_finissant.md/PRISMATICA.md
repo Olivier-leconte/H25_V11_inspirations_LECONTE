@@ -15,7 +15,7 @@ ordre de 1 à 10 selon les projets préférés.
    ![photo](media/Prismatica_plantation.jpg)
 
    Plantation au studio image représentative 1
-   Resource trouvée et partagée par Prismatica :  https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/ 
+   Resource trouvée et partagée par Prismatica sur leur site :  https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/ 
   
 #
 
@@ -28,7 +28,7 @@ ordre de 1 à 10 selon les projets préférés.
     Ihab Mouhajer : Développeur intéractif.
    
    ![photo](media/Luminatura_plantation.jpg)
-     Resource trouvée et partagée par Luminatura : https://miaou-mafia.github.io/projet- 
+     Resource trouvée et partagée par Luminatura sur leur site : https://miaou-mafia.github.io/projet- 
      luminatura/#/20_intention/40_scenarimage/
  
 #
@@ -38,8 +38,8 @@ ordre de 1 à 10 selon les projets préférés.
     William Beauvais : Conception visuelle.
     Anton Nikulin : Programmation.
 
-    ![photo](media/Arcadia_implantation.jpg)
-     Resource trouvée et partagée par Arcadia : 
+   ![photo](media/Arcadia_implantation.jpg)
+   Resource trouvée et partagée par Arcadia sur leur site : https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/
 #
 ## 4 - C0N DU8
 
