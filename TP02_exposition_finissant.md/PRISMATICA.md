@@ -49,7 +49,7 @@ ordre de 1 à 10 selon les projets préférés.
      Keven Malric : Responsable du développement technique.
      Jérémy Roy-Coté : Programmeur Interconnectivité.
    
-   
+   ![photo](media/
    #
      
 ## 5 - ETHERIA
