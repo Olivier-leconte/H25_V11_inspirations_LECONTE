@@ -55,14 +55,15 @@ ordre de 1 à 10 selon les projets préférés.
      
 ## 5 - ETHERIA
 
-    Joshua Gonzalez-Barrera : Monteur Vidéo, Artiste Design, Programmeur.
-    Victor Gileau : Programmeur, Artiste Design.
-    Michael Un Dupré : Programmeur, Artiste VFX/Design.
-    Pierre-Luc Proulx : Progammeur, Artiste VFX/Design, Artiste 3D.
-    Maik_Hamel : Compositeur Sonore, programmeur.
+     Joshua Gonzalez-Barrera : Monteur Vidéo, Artiste Design, Programmeur.
+     Victor Gileau : Programmeur, Artiste Design.
+     Michael Un Dupré : Programmeur, Artiste VFX/Design.
+     Pierre-Luc Proulx : Progammeur, Artiste VFX/Design, Artiste 3D.
+     Maik_Hamel : Compositeur Sonore, programmeur.
     
-    
-![photo](media/
+   ![photo](media/Etheria_plantation.jpg)
+   Resource trouvée et partagée par ETHERIA sur leur site : https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/
+   
 #
  ## 6 - FUGA
 
