@@ -61,7 +61,8 @@ ordre de 1 à 10 selon les projets préférés.
     Pierre-Luc Proulx : Progammeur, Artiste VFX/Design, Artiste 3D.
     Maik_Hamel : Compositeur Sonore, programmeur.
     
-
+    
+![photo](media/
 #
  ## 6 - FUGA
 
