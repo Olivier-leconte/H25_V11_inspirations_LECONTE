@@ -35,6 +35,7 @@ Voici une plantation qui résume comment ils voulaient faire pour mettre leur oe
 ![photo](media/Prismatica_plantation.jpg)
 Resource trouvée et partagée par Prismatica sur leur site :  https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/ 
 
+ ## Mon ressenti
 
 ## Luminatura
 ![photo](media/Luminatura_affiche.jfif)
@@ -69,7 +70,9 @@ Photo prise par Olivier Leconte.
  Voici la structure du studio
  ![photo](media/Luminatura_plantation_studio.png)
  Resource trouvée et partagée par Luminatura sur leur site : https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
- 
+
+  ## Mon ressenti
+  
 ## Arcadia
  ![photo](media/Arcadia_affiche.jfif)
  Photo prise par Olivier Leconte.
@@ -89,15 +92,15 @@ Photo prise par Olivier Leconte.
 Ensuite, une autre où on trouve la manette qui permet de jouer au jeu.
 ![photo](media/Arcadia_manette.JPG)
 Photo prise par Olivier Leconte.
-#
-
-
-
 
 ## Plantation
 Voici à quoi ressemble de l'oeuvre 
  ![photo](media/Arcadia_plantation.png)
  Resource trouvée et partagée par Arcadia sur leur site : https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/
+
+  ## Mon ressenti
+  ### Positif
+  ### Négatif
  
  ## C0N DU8
 
