@@ -58,6 +58,11 @@ Pour finir, voici à quoi l'oeuvre ressemble au finale.
 
 ## Plantation
  Voici la structure de base.
+ ![photo](media/Luminatura_plantation_base.jpg)
+
+ 
+ Voici la structure du studio
+ ![photo]/media/Luminatura_plantation_studio.png)
  
 ## Arcadia
 
