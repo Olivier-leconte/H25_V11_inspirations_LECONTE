@@ -9,6 +9,7 @@ ordre de 1 à 10 selon mes projets préférés.
 # Ordre de préférence des projets.
 
 ## Prismatica
+## Équipe
 
     Ikrame Rata : Chef de projet.
     Vincent Delisle : Développeur et concepteur sonore. 
@@ -35,7 +36,9 @@ Resource trouvée et partagée par Prismatica sur leur site :  https://pootpooki
 
 
 ## Luminatura
- Voici Luminatura un oeuvre fait par : 
+
+## Équipe 
+
     Prethiah Rajaratnam : Programmeuse et administratrice du projet.
     Audrey Dandurand : Directrice Audio Visuel et Gestionnaire de projet.
     Justine Rousseau : Programmeuse Coordinatrice des medias.
