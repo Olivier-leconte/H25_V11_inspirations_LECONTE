@@ -13,10 +13,15 @@ Bon pour commencer, l'oeuvre ce base sur la chromesthésie une forme de synesth�
 Les matériaux utilisées sont : 
 un tableau permettant de dessiner dessus.
 ![photo](media//Prismatica_tableau_à_dessiner_vue_de_coté.JPG)
-photo pris par Olivier Leconte.
+Photo pris par Olivier Leconte.
 
-Un écran qui permet de voir ce qu'on dessine 
-  ![photo](media/Prismatica_finale_vue_Ensemble_site.psd)
+Un écran qui permet de voir ce qu'on dessine. 
+![photo](media/Prismatica_tableau_mouvement_face.JPG)
+Photo pris par Olivier Leconte.
+
+Ainsi que des hauts parleurs pour entendre la couleur des sons.
+![photo](media/Prismatica_finale_ensemble.jpg)
+  Photo pris par Olivier Leconte.
 
 
 
