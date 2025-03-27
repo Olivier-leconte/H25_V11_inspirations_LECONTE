@@ -37,7 +37,7 @@ Resource trouvée et partagée par Prismatica sur leur site :  https://pootpooki
 
 
 ## Luminatura
-
+![photo](media/Luminatura_affiche.jfif)
 ## Équipe 
 
     Prethiah Rajaratnam : Programmeuse et administratrice du projet.
@@ -45,6 +45,8 @@ Resource trouvée et partagée par Prismatica sur leur site :  https://pootpooki
     Justine Rousseau : Programmeuse Coordinatrice des medias.
     Camilia Bouatmani : Directrice Artistique. 
     Ihab Mouhajer : Développeur intéractif.
+
+## Photo à l'appuie
 
 ## Arcadia
 
