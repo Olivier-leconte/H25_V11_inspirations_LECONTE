@@ -7,14 +7,15 @@ ordre de 1 à 10 selon mes projets préférés.
 
 
 # Ordre de préférence des projets.
-
 ## Prismatica
+
 ## Équipe
 
     Ikrame Rata : Chef de projet.
     Vincent Delisle : Développeur et concepteur sonore. 
     Jérémy Duverseau : Directeur artistique.
 
+## Photo à l'appuie
 Bon pour commencer, l'oeuvre ce base sur la chromesthésie une forme de synesthésie permettant avec des équipements d'entendre les couleurs dessinées sur un tableau.
 Les matériaux utilisées sont : 
 un tableau permettant de dessiner dessus.
