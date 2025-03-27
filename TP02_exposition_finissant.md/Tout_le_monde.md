@@ -30,9 +30,9 @@ Resource trouvée et partagée par Prismatica sur leur site :  https://pootpooki
 #
 
 # Prismatica  
- Ikrame Rata : Chef de projet.
- Vincent Delisle : Développeur et concepteur sonore. 
- Jérémy Duverseau : Directeur artistique.
+  Ikrame Rata : Chef de projet.
+  Vincent Delisle : Développeur et concepteur sonore. 
+  Jérémy Duverseau : Directeur artistique.
 
 ## Luminatura
 
