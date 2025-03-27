@@ -22,11 +22,11 @@
 
  ## C0N DU8
 
-   Ian Corbin : Designer de niveaux
-   Samuel Desmeules-Voyer : Directeur artistique.
-   Alexandre Gervais : Programmeur des méchansimes.
-   Keven Malric : Responsable du développement technique.
-   Jérémy Roy-Coté : Programmeur Interconnectivité.
+    Ian Corbin : Designer de niveaux
+    Samuel Desmeules-Voyer : Directeur artistique.
+    Alexandre Gervais : Programmeur des méchansimes.
+    Keven Malric : Responsable du développement technique.
+    Jérémy Roy-Coté : Programmeur Interconnectivité.
      
  ## ETHERIA
 
