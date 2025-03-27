@@ -36,6 +36,14 @@ Resource trouvée et partagée par Prismatica sur leur site :  https://pootpooki
 
 ## Luminatura
 
+
+
+
+
+
+
+
+    
     Prethiah Rajaratnam : Programmeuse et administratrice du projet.
     Audrey Dandurand : Directrice Audio Visuel et Gestionnaire de projet.
     Justine Rousseau : Programmeuse Coordinatrice des medias.
