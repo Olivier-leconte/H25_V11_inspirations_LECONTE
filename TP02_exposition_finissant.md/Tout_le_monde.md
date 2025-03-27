@@ -136,6 +136,8 @@ Resource trouvée et partagée par C0N DU8 sur leur site : https://gearshift-gam
   
      
  ## ETHERIA
+![photo](media/Etheria_Logo.jpg)
+Resource trouvée et partagée par Etheria sur leur site : https://ethereal-creators.github.io/Etheria/#/
 
 ## Équipe
     Joshua Gonzalez-Barrera : Monteur Vidéo, Artiste Design, Programmeur.
@@ -144,7 +146,22 @@ Resource trouvée et partagée par C0N DU8 sur leur site : https://gearshift-gam
     Pierre-Luc Proulx : Progammeur, Artiste VFX/Design, Artiste 3D.
     Maik_Hamel : Compositeur Sonore, programmeur.
 
-
+ ## Photo à l'appuie
+ 
+ Voici une photo d'un projecteur qui permet d'afficher l'oeuvre.
+ ![photo](media/Etheria_projecteur.JPG)
+  Photo prise par Olivier Leconte.
+#
+ l'image montre une kinect qui permet aux utilisateurs de bouger et de frapper les ennemis
+ ![photo](media/Etheria_kinect.JPG)
+ Photo prise par Olivier Leconte.
+ #
+ 
+ 
+## Mon ressenti
+  ### Positif
+  ### Négatif
+  
 ## FUGA
 
     Yavuz-Selim Gucluer : Progammeur.
