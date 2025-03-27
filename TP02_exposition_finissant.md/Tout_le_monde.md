@@ -63,7 +63,7 @@ Photo prise par Olivier Leconte.
  Voici la structure de base.
  ![photo](media/Luminatura_plantation_base.jpg)
  Resource trouvée et partagée par Luminatura sur leur site : https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
- 
+ #
  Voici la structure du studio
  ![photo](media/Luminatura_plantation_studio.png)
  Resource trouvée et partagée par Luminatura sur leur site : https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
