@@ -36,6 +36,8 @@ Voici une plantation qui résume comment ils voulaient faire pour mettre leur oe
 Resource trouvée et partagée par Prismatica sur leur site :  https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/ 
 
  ## Mon ressenti
+  ### Positif
+  ### Négatif
 
 ## Luminatura
 ![photo](media/Luminatura_affiche.jfif)
@@ -72,6 +74,8 @@ Photo prise par Olivier Leconte.
  Resource trouvée et partagée par Luminatura sur leur site : https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
 
   ## Mon ressenti
+   ### Positif
+  ### Négatif
   
 ## Arcadia
  ![photo](media/Arcadia_affiche.jfif)
