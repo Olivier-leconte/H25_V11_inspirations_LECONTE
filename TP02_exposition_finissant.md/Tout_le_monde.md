@@ -7,7 +7,7 @@ ordre de 1 à 10 selon mes projets préférés.
 
 
 # Ordre de préférence des projets.
-## Prismatica
+# Prismatica
 
 ## Équipe
 
