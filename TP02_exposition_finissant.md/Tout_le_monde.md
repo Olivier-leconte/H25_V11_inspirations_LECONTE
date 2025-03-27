@@ -109,6 +109,8 @@ Voici à quoi ressemble de l'oeuvre
   ### Négatif
  
  ## C0N DU8
+![photo](media/C0N_DU8_logo.png)
+Resource trouvée et partagée par C0N DU8 sur leur site : https://gearshift-games.github.io/Web-C0N-DU8/#/
 
  ## Équipe
  
