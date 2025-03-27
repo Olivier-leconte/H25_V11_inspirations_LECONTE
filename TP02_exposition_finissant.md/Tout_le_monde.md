@@ -201,14 +201,17 @@ Pour finir, Une photo qui montre les prises qui connecte les synthétiseurs et l
  ## Plantation
 
  Pour commencer, on s'imagine comment on met les lianes en plastique sur l'haut parleur. 
- ![photo(media/Fuga_plantation_ensemble.png)
+  ![photo](media/Fuga_plantation_ensemble.png)
  Resource trouvée et partagée par FUGA sur leur site : https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/
  #
   Ensuite, la photo montre comment on visualise les lianes en plastique sur l'écran et le support depuis le plafond.
   ![photo](media/Fuga_plantation_haut_parleur.png)
   Resource trouvée et partagée par FUGA sur leur site : https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/
   #
-  Pour finir, 
+  Pour finir, une vue d'en haut pour voir si sa marche.
+  ![photo](media/Fuga_plantation_vue_haut.png)
+   Resource trouvée et partagée par FUGA sur leur site : https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/
+  
   
   
 
