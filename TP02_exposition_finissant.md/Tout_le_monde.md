@@ -14,29 +14,8 @@ ordre de 1 à 10 selon mes projets préférés.
    Vincent Delisle : Développeur et concepteur sonore. 
    Jérémy Duverseau : Directeur artistique.
 
-Bon pour commencer, l'oeuvre ce base sur la chromesthésie une forme de synesthésie permettant avec des équipements d'entendre les couleurs dessinées sur un tableau.
-Les matériaux utilisées sont : 
-un tableau permettant de dessiner dessus.
-![photo](media//Prismatica_tableau_à_dessiner_vue_de_coté.JPG)
-Photo prise par Olivier Leconte.
-#
-Un écran qui permet de voir ce qu'on dessine. 
-![photo](media/Prismatica_tableau_mouvement_face.JPG)
-Photo prise par Olivier Leconte.
-#
-Ainsi que des hauts parleurs pour entendre la couleur des sons.
-![photo](media/Prismatica_finale_ensemble.jpg)
-  Photo prise par Olivier Leconte.
-#
-Voici une plantation qui résume comment ils voulaient faire pour mettre leur oeuvre dans un local. je trouve cela très intéressant parce que ça montre qu'ils sont impliqués et un capable de précision très professionnel.
 
-![photo](media/Prismatica_plantation.jpg)
-Resource trouvée et partagée par Prismatica sur leur site :  https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/ 
-#
- 
-  Ikrame Rata : Chef de projet.
-  Vincent Delisle : Développeur et concepteur sonore. 
-  Jérémy Duverseau : Directeur artistique.
+
 
 ## Luminatura
 
