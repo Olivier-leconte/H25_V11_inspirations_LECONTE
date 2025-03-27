@@ -223,6 +223,8 @@ Pour finir, Une photo qui montre les prises qui connecte les synthétiseurs et l
   
 
 ## Internarture 
+![photo](media/Internature_affiche.jfif)
+Photo prise par Olivier Leconte.
 
 ## Équipe
 
@@ -231,3 +233,23 @@ Pour finir, Une photo qui montre les prises qui connecte les synthétiseurs et l
     Isaac Fafard : Intégrateur multimédia. Responsable de la communication entre le numérique et le réel. Programmeur.
     Kenza El Harrif : Direction artistique, conception sonore.
     Khaly Tia Sing : Chargée de l'équipe, l'organisation du projet, qualité des projets, programmation des lumières
+
+   ## Photo à l'appuie
+   
+   Voici une photo de la boule qui permet de faire monter les fleurs
+   ![photo](media/Internature_boule.jfif)
+   Photo prise par Olivier Leconte.
+   #
+   La photo des fleurs
+ ![photo](media/Internature_vue_cote.jfif)
+   Photo prise par Olivier Leconte.
+   #
+   Voici une photo de l'ensemble de l'oeuvre
+   ![photo](media/Internature_vue_ensemble.jfif)
+   Photo prise par Olivier Leconte.
+
+   ## Plantation 
+
+    
+   
+   
