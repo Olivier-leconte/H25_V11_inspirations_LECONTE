@@ -74,7 +74,9 @@ Photo prise par Olivier Leconte.
  Resource trouvée et partagée par Luminatura sur leur site : https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
 
   ## Mon ressenti
+  
    ### Positif
+   
   ### Négatif
   
 ## Arcadia
@@ -107,13 +109,29 @@ Voici à quoi ressemble de l'oeuvre
   ### Négatif
  
  ## C0N DU8
- 
 
+ ## Équipe
+ 
     Ian Corbin : Designer de niveaux
     Samuel Desmeules-Voyer : Directeur artistique.
     Alexandre Gervais : Programmeur des méchansimes.
     Keven Malric : Responsable du développement technique.
     Jérémy Roy-Coté : Programmeur Interconnectivité.
+
+  ## Photo à l'appuie
+
+  Voici une photo qui montre Keven Malric en action 
+  ![photo](media/C0N_DU8_en_action.JPG)
+  Photo prise par Olivier Leconte.
+#
+  Une photo d'une course de moto.
+  ![photo](media/C0N_DU8_vue_ensemble.JPG)
+    Photo prise par Olivier Leconte.
+  
+   ## Mon ressenti
+  ### Positif
+  ### Négatif
+  
      
  ## ETHERIA
 
