@@ -100,7 +100,7 @@ Ensuite, une autre où on trouve la manette qui permet de jouer au jeu.
 Photo prise par Olivier Leconte.
 
 ## Plantation
-Voici à quoi ressemble de l'oeuvre 
+Voici à quoi ressemble de l'oeuvre.
  ![photo](media/Arcadia_plantation.png)
  Resource trouvée et partagée par Arcadia sur leur site : https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/
 
@@ -122,7 +122,7 @@ Resource trouvée et partagée par C0N DU8 sur leur site : https://gearshift-gam
 
   ## Photo à l'appuie
 
-  Voici une photo qui montre Keven Malric en action 
+  Voici une photo qui montre Keven Malric en action. 
   ![photo](media/C0N_DU8_en_action.JPG)
   Photo prise par Olivier Leconte.
 #
@@ -158,7 +158,7 @@ Resource trouvée et partagée par Etheria sur leur site : https://ethereal-crea
  ![photo](media/Etheria_projecteur.JPG)
   Photo prise par Olivier Leconte.
 #
- l'image montre une kinect qui permet aux utilisateurs de bouger et de frapper les ennemis
+ l'image montre une kinect qui permet aux utilisateurs de bouger et de frapper les ennemis.
  ![photo](media/Etheria_kinect.JPG)
  Photo prise par Olivier Leconte.
 
@@ -186,7 +186,34 @@ Resource trouvée et partagée par Etheria sur leur site : https://ethereal-crea
     Abdel Ali Djeral : Programmeur.
 
    ## Photo à l'appuie
-   
+
+   Voici une photo de l'arbre. 
+![photo](media/Fuga_arbre.JPG)
+ Photo prise par Olivier Leconte.
+ #
+ Une autre photo qui montre l'haut parleur.
+![photo](media/Fuga_haut_parleur.JPG)
+#
+Pour finir, Une photo qui montre les prises qui connecte les synthétiseurs et les écrans.
+![photo](media/Fuga_prise.JPG)
+ Photo prise par Olivier Leconte.
+
+ ## Plantation
+
+ Pour commencer, on s'imagine comment on met les lianes en plastique sur l'haut parleur. 
+ ![photo(]media/Fuga_plantation_ensemble.png)
+ Resource trouvée et partagée par FUGA sur leur site : https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/
+ #
+  Ensuite, la photo montre comment on visualise les lianes en plastique sur l'écran et le support depuis le plafond.
+  ![photo](media/Fuga_plantation_haut_parleur.png)
+  Resource trouvée et partagée par FUGA sur leur site : https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/
+  #
+  Pour finir, 
+  
+  
+
+ 
+
     
     
 
