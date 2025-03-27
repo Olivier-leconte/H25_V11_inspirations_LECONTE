@@ -9,6 +9,15 @@ ordre de 1 à 10 selon mes projets préférés.
 
 ## Prismatica
 
+
+
+
+
+
+
+
+
+
 ![photo](media/Prismatica_plantation.jpg)
    Ikrame Rata : Chef de projet.
    Vincent Delisle : Développeur et concepteur sonore. 
