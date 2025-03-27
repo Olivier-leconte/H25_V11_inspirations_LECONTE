@@ -5,10 +5,17 @@ ordre de 1 à 10 selon mes projets préférés.
 
 
 
+
 # Ordre de préférence des projets.
 
 ## Prismatica
+Bon pour commencer, l'oeuvre ce base sur la chromesthésie une forme de synesthésie permettant avec des équipements d'entendre les couleurs dessinées sur un tableau.
+Les matériaux utilisées sont : 
+un tableau permettant de dessiner dessus.
+![photo](media//Prismatica_tableau_à_dessiner_vue_de_coté.JPG)
 
+Un écran qui permet de voir ce qu'on dessine 
+![photo](media/Prismatica_finale_vue_Ensemble_site.psd)
 
 
 
