@@ -81,7 +81,16 @@ Photo prise par Olivier Leconte.
     Anton Nikulin : Programmation.
     
 ## Photo à l'appuie
-Il manque beaucoup de photo, donc j'ai seulement pris ça
+Il manque beaucoup de photo, donc j'ai seulement pris çeux là. Les photos que je vais vous montrez sont seulement lorsque le projet etait même pas finit.
+Voici une photo en action à quoi ressemble Arcadia.
+![photo](media/Arcadia_en_action.jfif)
+Photo prise par Olivier Leconte.
+#
+Ensuite, une autre où on trouve la manette qui permet de jouer au jeu.
+![photo](media/Arcadia_manette.JPG)
+Photo prise par Olivier Leconte.
+#
+
 
 
 
