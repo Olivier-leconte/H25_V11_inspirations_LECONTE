@@ -71,7 +71,9 @@ Photo prise par Olivier Leconte.
  Resource trouvée et partagée par Luminatura sur leur site : https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
  
 ## Arcadia
-
+ ![photo](media/Arcadia_affiche.jfif)
+ Photo prise par Olivier Leconte.
+ 
 ## Équipe
 
     Dominic Yale : Conception sonore.
@@ -79,11 +81,15 @@ Photo prise par Olivier Leconte.
     Anton Nikulin : Programmation.
     
 ## Photo à l'appuie
+Il manque beaucoup de photo, donc j'ai seulement pris ça
 
 
 
 ## Plantation
-
+Voici à quoi ressemble de l'oeuvre 
+ ![photo](media/Arcadia_plantation.png)
+ Resource trouvée et partagée par Arcadia sur leur site : https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/
+ 
  ## C0N DU8
 
     Ian Corbin : Designer de niveaux
