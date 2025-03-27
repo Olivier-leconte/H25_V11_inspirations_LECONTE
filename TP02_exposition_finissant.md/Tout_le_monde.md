@@ -51,7 +51,7 @@ Il y a deux projecteur, mais j'ai réussi à prendre en photo malheureusement pa
 ![photo](media/Luminatura_projecteur.jfif)
 
 Ensuite, il y'a des plaques métalliques qui permettent de detecter la main et cela cause plusiseurs couleurs à afficher. Aussi des hauts parleurs qui permettent de faire du son lorsqu'on touche la plaque.
-![photo](media/Luminatura_plaque métallique.JPG)
+![photo](media/Luminatura_plaque_métallique.JPG)
 ## Arcadia
 
     Dominic Yale : Conception sonore.
