@@ -47,7 +47,8 @@ Resource trouvée et partagée par Prismatica sur leur site :  https://pootpooki
     Ihab Mouhajer : Développeur intéractif.
 
 ## Photo à l'appuie
-
+Il y a deux projecteur, mais j'ai réussi à prendre en photo malheureusement parce que je savais pas où se trouvait le deuxième projecteur.
+![photo](media/Luminatura_plaque métallique.JPG)
 ## Arcadia
 
     Dominic Yale : Conception sonore.
