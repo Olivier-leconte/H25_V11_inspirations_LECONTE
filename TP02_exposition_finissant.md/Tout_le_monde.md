@@ -8,17 +8,17 @@
 
 ## Luminatura
 
-   Prethiah Rajaratnam : Programmeuse et administratrice du projet.
-   Audrey Dandurand : Directrice Audio Visuel et Gestionnaire de projet.
-   Justine Rousseau : Programmeuse Coordinatrice des medias.
-   Camilia Bouatmani : Directrice Artistique. 
-   Ihab Mouhajer : Développeur intéractif.
+    Prethiah Rajaratnam : Programmeuse et administratrice du projet.
+    Audrey Dandurand : Directrice Audio Visuel et Gestionnaire de projet.
+    Justine Rousseau : Programmeuse Coordinatrice des medias.
+    Camilia Bouatmani : Directrice Artistique. 
+    Ihab Mouhajer : Développeur intéractif.
 
 ## Arcadia
 
-   Dominic Yale : Conception sonore.
-   William Beauvais : Conception visuelle.
-   Anton Nikulin : Programmation.
+    Dominic Yale : Conception sonore.
+    William Beauvais : Conception visuelle.
+    Anton Nikulin : Programmation.
 
  ## C0N DU8
 
