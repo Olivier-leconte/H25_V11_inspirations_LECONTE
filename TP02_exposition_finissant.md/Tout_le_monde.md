@@ -38,6 +38,8 @@ Resource trouvée et partagée par Prismatica sur leur site :  https://pootpooki
 
 ## Luminatura
 ![photo](media/Luminatura_affiche.jfif)
+  Photo prise par Olivier Leconte.
+
 ## Équipe 
 
     Prethiah Rajaratnam : Programmeuse et administratrice du projet.
@@ -70,9 +72,17 @@ Photo prise par Olivier Leconte.
  
 ## Arcadia
 
+## Équipe
+
     Dominic Yale : Conception sonore.
     William Beauvais : Conception visuelle.
     Anton Nikulin : Programmation.
+    
+## Photo à l'appuie
+
+
+
+## Plantation
 
  ## C0N DU8
 
