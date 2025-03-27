@@ -49,20 +49,24 @@ Resource trouvée et partagée par Prismatica sur leur site :  https://pootpooki
 ## Photo à l'appuie
 Il y a deux projecteur, mais j'ai réussi à prendre en photo malheureusement parce que je savais pas où se trouvait le deuxième projecteur.
 ![photo](media/Luminatura_projecteur.jfif)
+Photo prise par Olivier Leconte.
 #
 Ensuite, il y'a des plaques métalliques qui permettent de detecter la main et cela cause plusiseurs couleurs à afficher. Aussi des hauts parleurs qui permettent de faire du son lorsqu'on touche la plaque.
 ![photo](media/Luminatura_plaque_métallique.JPG)
+Photo prise par Olivier Leconte.
 #
 Pour finir, voici à quoi l'oeuvre ressemble au finale.
 ![photo](media/Luminatura_vue_ensemble.jfif)
+Photo prise par Olivier Leconte.
 
 ## Plantation
  Voici la structure de base.
  ![photo](media/Luminatura_plantation_base.jpg)
-
+ Resource trouvée et partagée par Luminatura sur leur site : https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
  
  Voici la structure du studio
- ![photo]/media/Luminatura_plantation_studio.png)
+ ![photo](media/Luminatura_plantation_studio.png)
+ Resource trouvée et partagée par Luminatura sur leur site : https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
  
 ## Arcadia
 
