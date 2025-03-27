@@ -56,6 +56,9 @@ Ensuite, il y'a des plaques métalliques qui permettent de detecter la main et c
 Pour finir, voici à quoi l'oeuvre ressemble au finale.
 ![photo](media/Luminatura_vue_ensemble.jfif)
 
+## Plantation
+ Voici la structure de base.
+ 
 ## Arcadia
 
     Dominic Yale : Conception sonore.
