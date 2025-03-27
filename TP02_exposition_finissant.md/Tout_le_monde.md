@@ -198,6 +198,10 @@ Pour finir, Une photo qui montre les prises qui connecte les synthétiseurs et l
 ![photo](media/Fuga_prise.JPG)
  Photo prise par Olivier Leconte.
 
+ ## Mon ressenti
+  ### Positif
+  ### Négatif
+
  ## Plantation
 
  Pour commencer, on s'imagine comment on met les lianes en plastique sur l'haut parleur. 
@@ -211,16 +215,16 @@ Pour finir, Une photo qui montre les prises qui connecte les synthétiseurs et l
   Pour finir, une vue d'en haut pour voir si sa marche.
   ![photo](media/Fuga_plantation_vue_haut.png)
    Resource trouvée et partagée par FUGA sur leur site : https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/
-  
-  
-  
 
- 
-
-    
-    
+   ## Mon ressenti
+  ### Positif
+  ### Négatif
+  
+  
 
 ## Internarture 
+
+## Équipe
 
     Sitmonternna Yi : Responsable de la gestion et suppervision des ressources techniques, mapping vidéo, conception sonore.
     Delphine Grenier : Gestion et l'organisation du projet, Programmation de l'interactivité, visuelle.
