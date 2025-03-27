@@ -132,13 +132,10 @@ Resource trouvée et partagée par C0N DU8 sur leur site : https://gearshift-gam
 
  ## Plantation 
 
- Voici une ancienne photo de la structure.
-![photo](media/Etheria_plantation.jpg)
-Resource trouvée et partagée par Etheria sur leur site : https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/
-#
-Voici la vrai structure avec l'update
+ Voici une photo de la structure.
+  ![photo](media/C0N_DU8_plantation.jpg)
+Resource trouvée et partagée par C0N DU8 sur leur site : https://gearshift-games.github.io/Web-C0N-DU8/#/
 
-  
    ## Mon ressenti
   ### Positif
   ### Négatif
@@ -164,9 +161,17 @@ Resource trouvée et partagée par Etheria sur leur site : https://ethereal-crea
  l'image montre une kinect qui permet aux utilisateurs de bouger et de frapper les ennemis
  ![photo](media/Etheria_kinect.JPG)
  Photo prise par Olivier Leconte.
- #
+
+  ## Plantation 
  
- 
+  Voici une ancienne photo de la structure.
+![photo](media/Etheria_plantation.jpg)
+Resource trouvée et partagée par Etheria sur leur site : https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/
+#
+Voici la nouvelle structure.
+![photo](media/Etheria_nouveau_plantation.jpg)
+Resource trouvée et partagée par Etheria sur leur site : https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/
+
  
 ## Mon ressenti
   ### Positif
@@ -174,10 +179,16 @@ Resource trouvée et partagée par Etheria sur leur site : https://ethereal-crea
   
 ## FUGA
 
+## Équipe
     Yavuz-Selim Gucluer : Progammeur.
     Daniel Dezemma : Directeur Visuel.
     Tristan Khadka : Directeur sonore.
     Abdel Ali Djeral : Programmeur.
+
+   ## Photo à l'appuie
+   
+    
+    
 
 ## Internarture 
 
