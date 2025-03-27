@@ -137,6 +137,7 @@ Resource trouvée et partagée par C0N DU8 sur leur site : https://gearshift-gam
      
  ## ETHERIA
 
+## Équipe
     Joshua Gonzalez-Barrera : Monteur Vidéo, Artiste Design, Programmeur.
     Victor Gileau : Programmeur, Artiste Design.
     Michael Un Dupré : Programmeur, Artiste VFX/Design.
