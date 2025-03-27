@@ -48,6 +48,9 @@ Resource trouvée et partagée par Prismatica sur leur site :  https://pootpooki
 
 ## Photo à l'appuie
 Il y a deux projecteur, mais j'ai réussi à prendre en photo malheureusement parce que je savais pas où se trouvait le deuxième projecteur.
+![photo](media/Luminatura_projecteur.jfif)
+
+Ensuite, il y'a des plaques métalliques qui permettent de detecter la main et cause plusiseurs couleurs. Aussi des hauts parleurs qui permettent de faire du son lorsqu'on touche la plaque.
 ![photo](media/Luminatura_plaque métallique.JPG)
 ## Arcadia
 
