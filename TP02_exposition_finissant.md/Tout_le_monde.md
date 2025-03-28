@@ -1,6 +1,8 @@
  # TP02 Exposition des étudiants finissants en TIM
  ![photo](media/Resonance.JPG)
  Photo prise par Olivier Leconte
+
+ ## Photo de moi devant l'exposition
  #
 Bonjour, je vais vous parlez de l'exposition Résonnance. Il s'agit de plusieurs oeuvres finissants en Tim. Ils y avaient beaucoup d'oeuvres intéressantes avec des idées extraodinaires. En espérant que cela va vous plaires, mais avant, voici un 
 ordre de 1 à 10 selon mes projets préférés.
