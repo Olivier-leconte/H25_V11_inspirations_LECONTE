@@ -81,7 +81,7 @@ Photo prise par Olivier Leconte.
    ### Positif
   Je trouve que l'oeuvre visuellement est magnifique. Les fleurs sont posés sur le mur et qui interagisaient avec le projecteur. L'idée lorsqu'on touche les plaques métalliques et qu'ils permettent t'interagir avec l'oeuvre est incroyable. D'un tel spectacle.  
   ### Négatif
-  Le seul défaut que j'ai pu trouver est le manque de couleurs. Je trouve que lorsqu'on  
+  Le seul défaut que j'ai pu trouver est le manque de variation de couleurs. À part ça, je trouvais l'oeuvre intéressant.
   
 ## Arcadia
  ![photo](media/Arcadia_affiche.jfif)
@@ -109,8 +109,12 @@ Voici à quoi ressemble de l'oeuvre.
  Resource trouvée et partagée par Arcadia sur leur site : https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/
 
   ## Mon ressenti
+  
   ### Positif
+  Une borne d'arcade est toujours la meilleure idée quand il s'agit de faire un jeu vidéo classique très efficace. Rien à rajouter.
   ### Négatif
+  Beaucoup de chose à dire. Premièrement, on ne connait pas complétement comment ils ont fait pour mettre les cables, ils y a quoi dedans,etc.
+  Deuxièmement, le manque d'explication du projet est aussi est problématique. Ce genre de truc est le truc le plus important. 
  
  ## C0N DU8
 ![photo](media/C0N_DU8_logo.png)
@@ -141,8 +145,11 @@ Resource trouvée et partagée par C0N DU8 sur leur site : https://gearshift-gam
 Resource trouvée et partagée par C0N DU8 sur leur site : https://gearshift-games.github.io/Web-C0N-DU8/#/
 
    ## Mon ressenti
+   
   ### Positif
+  Je trouve que l'idée de faire du biclette est incroyable. Non seulement ça encourage les jeunes et adultes à jouer, mais ça rassemble les personnes qui aiment jouer aux jeux-vidéos et le sport.
   ### Négatif
+  Le seul problème est que quand j'étais venu, le jeu n'était pas finit. Le personnage restait droit sans tourner ni à gauche ni à droite. Je suis pas repasser pour voir le projet finale.
   
      
  ## ETHERIA
@@ -178,8 +185,11 @@ Resource trouvée et partagée par Etheria sur leur site : https://ethereal-crea
 
  
 ## Mon ressenti
+
   ### Positif
+  L'idée de faire un arbre est géniale. Rien de plus
   ### Négatif
+  Personnellement, J'ai trouvé le projet fade. Le manque de communication, le manque d'action, le manque d'explication du projet, etc. Bref, le projet aurait pu etre géniale, mais le manque de tous les choses nommées précèdement tue un peu le projet.
   
 ## FUGA
 
@@ -202,9 +212,7 @@ Pour finir, Une photo qui montre les prises qui connecte les synthétiseurs et l
 ![photo](media/Fuga_prise.JPG)
  Photo prise par Olivier Leconte.
 
- ## Mon ressenti
-  ### Positif
-  ### Négatif
+ 
 
  ## Plantation
 
@@ -221,10 +229,12 @@ Pour finir, Une photo qui montre les prises qui connecte les synthétiseurs et l
    Resource trouvée et partagée par FUGA sur leur site : https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/
 
    ## Mon ressenti
+ 
   ### Positif
+   Malheureusement, Je n'ai pas testé le jeu.
   ### Négatif
-  
-  
+   Malheureusement, Je n'ai pas testé le jeu.
+
 
 ## Internarture 
 ![photo](media/Internature_affiche.jfif)
@@ -260,7 +270,8 @@ Photo prise par Olivier Leconte.
   J'aurais juste aimé voir plusieurs animations de fleurs. 
 
    ## Plantation 
-
+Voici la structure vue d'en haut.
+![photo](media/Internature_plantation_de_la_serre_projet(vue_de_haut).jpg)
     
    
    
