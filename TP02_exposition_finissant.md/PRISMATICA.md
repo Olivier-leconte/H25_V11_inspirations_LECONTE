@@ -33,8 +33,17 @@ Resource trouvée et partagée par Prismatica sur leur site : https://pootpookie
  ### Processeurs et Ordinateurs
 L'ordinateur été donné par l'école.
 ![photo](media/Prismatica_ordinateur.jpg)
+Resource trouvée et partagée par Prismatica sur leur site : https://pootpookies.github.io/Prismatica/#/40_maquette/
 
  ### Diffusion et affichage
+Le projecteur été donné par l'école.
+![photo](media/Prismatica_projecteur.jpg)
+Resource trouvée et partagée par Prismatica sur leur site : https://pootpookies.github.io/Prismatica/#/40_maquette/
+
+## Mon appréciation
+ J'ai tellement aimé le fait de recréer un son grâce à un dessin. Je suis quelqu'un qui dessine pendant son passe-temps et voir ce truc me donne seulement un grand sourire.
+ Aussi, l'idée est originale et magnifique parce que tous les autres projets se ressemblent beaucoup. Ils ont presque tout pour but la nature alors que lui c'est la couleur et le son. 
+ Cependant, l'execution n'est pas très agréable. Le manque d'information sur le site et en place est un peu confusant. Malheureusement, je mettrais une note de 7/10 juste parce que l'originalité est vraiment présente.
 
  
 
