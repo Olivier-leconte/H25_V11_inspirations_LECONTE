@@ -271,7 +271,7 @@ Photo prise par Olivier Leconte.
 
    ## Plantation 
 Voici la structure vue d'en haut.
-![photo](media/Internature_plantation_vue_3D.jpg) 
+![photo](media/Internature_plantation_vue_3D.jpg)
 Le connecteur.
 ![photo](media/Internature_plantation_connecteur.jpg)
 #
