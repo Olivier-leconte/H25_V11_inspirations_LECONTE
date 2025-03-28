@@ -186,10 +186,10 @@ Resource trouvée et partagée par Etheria sur leur site : https://ethereal-crea
  
 ## Mon ressenti
 
-  ### Positif
-  L'idée de faire un arbre est géniale. Rien de plus
+### Positif
+   Malheureusement, Je n'ai pas testé l'oeuvre.
   ### Négatif
-  Personnellement, J'ai trouvé le projet fade. Le manque de communication, le manque d'action, le manque d'explication du projet, etc. Bref, le projet aurait pu etre géniale, mais le manque de tous les choses nommées précèdement tue un peu le projet.
+   Malheureusement, Je n'ai pas testé l'oeuvre.
   
 ## FUGA
 
@@ -231,10 +231,10 @@ Pour finir, Une photo qui montre les prises qui connecte les synthétiseurs et l
    ## Mon ressenti
  
   ### Positif
-   Malheureusement, Je n'ai pas testé le jeu.
+  L'idée de faire un arbre est géniale avec des écrans,mais Rien de plus. 
   ### Négatif
-   Malheureusement, Je n'ai pas testé le jeu.
-
+  Personnellement, J'ai trouvé le projet fade. Le manque de communication, le manque d'action, le manque d'explication du projet, etc. Bref, le projet aurait pu etre géniale, mais le manque de tous les choses nommées précèdement tue un peu le projet.
+  Aussi, on ne comprend pas réellement le but du projet. Sa aurait été geniale de dire par exemple que les écrans pollues les arbres en expliquant pourquoi les écrans sont collés sur l'arbre.  
 
 ## Internarture 
 ![photo](media/Internature_affiche.jfif)
