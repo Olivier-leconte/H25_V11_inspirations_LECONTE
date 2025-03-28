@@ -3,6 +3,9 @@
  Photo prise par Olivier Leconte
 
  ## Photo de moi devant l'exposition
+ J'ai totalement oublié de me prendre en photo devant l'exposition, mais j'ai une photo de moi qui se trouve devant l'affiche et l'endroit de l'exposition.
+![photo](media/Olivier_Leconte_resonance.JPG)
+Photo prise par Olivier Leconte
  #
 Bonjour, je vais vous parlez de l'exposition Résonnance. Il s'agit de plusieurs oeuvres finissants en Tim. Ils y avaient beaucoup d'oeuvres intéressantes avec des idées extraodinaires. En espérant que cela va vous plaires, mais avant, voici un 
 ordre de 1 à 10 selon mes projets préférés.
