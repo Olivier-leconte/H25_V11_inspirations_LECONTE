@@ -7,7 +7,7 @@
 ![photo](media/Olivier_Leconte_resonance.JPG)
 Photo prise par Olivier Leconte
  #
-Bonjour, je vais vous parlez de l'exposition Résonnance. Il s'agit de plusieurs oeuvres finissants en Tim. Ils y avaient beaucoup d'oeuvres intéressantes avec des idées extraodinaires. En espérant que cela va vous plaires, mais avant, voici un 
+Bonjour, je vais vous parler de l'exposition Résonance. Il s'agit de plusieurs oeuvres finissantes en Tim. Il y avait beaucoup d'oeuvres intéressantes avec des idées extraordinaires. En espérant que cela va vous plaire, mais avant, voici un 
 ordre de 1 à 10 selon mes projets préférés.
 
 
@@ -23,8 +23,8 @@ ordre de 1 à 10 selon mes projets préférés.
     Jérémy Duverseau : Directeur artistique.
 
 ## Photo à l'appuie
-Bon pour commencer, l'oeuvre ce base sur la chromesthésie une forme de synesthésie permettant avec des équipements d'entendre les couleurs dessinées sur un tableau.
-Les matériaux utilisées sont : 
+Bon pour commencer, l'oeuvre se base sur la chromesthésie une forme de synesthésie permettant avec des équipements d'entendre les couleurs dessinées sur un tableau.
+Les matériaux utilisés sont : 
 un tableau permettant de dessiner dessus.
 ![photo](media//Prismatica_tableau_à_dessiner_vue_de_coté.JPG)
 Photo prise par Olivier Leconte.
@@ -37,7 +37,7 @@ Ainsi que des hauts parleurs pour entendre la couleur des sons.
 ![photo](media/Prismatica_finale_ensemble.jpg)
   Photo prise par Olivier Leconte.
 #
-Voici une plantation qui résume comment ils voulaient faire pour mettre leur oeuvre dans un local. je trouve cela très intéressant parce que ça montre qu'ils sont impliqués et un capable de précision très professionnel.
+Voici une plantation qui résume comment ils voulaient faire pour mettre leur oeuvre dans un local. Je trouve cela très intéressant parce que ça montre qu'ils sont impliqués et un capables de précision très professionnels.
 
 ![photo](media/Prismatica_plantation.jpg)
 Resource trouvée et partagée par Prismatica sur leur site :  https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/ 
@@ -47,7 +47,7 @@ Resource trouvée et partagée par Prismatica sur leur site :  https://pootpooki
   ### Positif
   Je trouve que l'idée d'entendre les couleurs est d'une créativité incroyable. À part ça, je n'ai pas d'autres opinions.
   ### Négatif
-  Malheuresement, l'execution de l'idée est un mal fait. Je trouve qu'il manque d'explication. Lors de ma visite, je n'ai pas trouvé l'équipe vraiment intéressant. Parfois, il manquait des explications. Aussi, le son était pas en synchro avec ce qu'on dessinait.
+  Malheureusement, l'exécution de l'idée est un mal fait. Je trouve qu'il manque d'explication. Lors de ma visite, je n'ai pas trouvé l'équipe vraiment intéressante. Parfois, il manquait des explications. Aussi, le son n'était pas en synchro avec ce qu'on dessinait.
 
 ## Luminatura
 ![photo](media/Luminatura_affiche.jfif)
@@ -62,11 +62,11 @@ Resource trouvée et partagée par Prismatica sur leur site :  https://pootpooki
     Ihab Mouhajer : Développeur intéractif.
 
 ## Photo à l'appuie
-Il y a deux projecteur, mais j'ai réussi à prendre en photo malheureusement parce que je savais pas où se trouvait le deuxième projecteur.
+Il y a deux projecteur, mais j'ai réussi à prendre en photo malheureusement parce que je ne savais pas où se trouvait le deuxième projecteur.
 ![photo](media/Luminatura_projecteur.jfif)
 Photo prise par Olivier Leconte.
 #
-Ensuite, il y'a des plaques métalliques qui permettent de detecter la main et cela cause plusiseurs couleurs à afficher. Aussi des hauts parleurs qui permettent de faire du son lorsqu'on touche la plaque.
+Ensuite, il y'a des plaques métalliques qui permettent de detecter la main et cela a causé plusiseurs couleurs à afficher. Aussi des hauts parleurs qui permettent de faire du son lorsqu'on touche la plaque.
 ![photo](media/Luminatura_plaque_métallique.JPG)
 Photo prise par Olivier Leconte.
 #
@@ -86,9 +86,9 @@ Photo prise par Olivier Leconte.
   ## Mon ressenti
   
    ### Positif
-  Je trouve que l'oeuvre visuellement est magnifique. Les fleurs sont posés sur le mur et qui interagisaient avec le projecteur. L'idée lorsqu'on touche les plaques métalliques et qu'ils permettent t'interagir avec l'oeuvre est incroyable. D'un tel spectacle.  
+Je trouve que l'oeuvre visuellement est magnifique. Les fleurs sont posées sur le mur et interagissaient avec le projecteur. L'idée lorsqu'on touche les plaques métalliques et qu'elles permettent d'interagir avec l'oeuvre est incroyable. D'un tel spectacle.  
   ### Négatif
-  Le seul défaut que j'ai pu trouver est le manque de variation de couleurs. À part ça, je trouvais l'oeuvre intéressant.
+  Le seul défaut que j'ai pu trouver est le manque de variation de couleurs. À part ça, je trouvais l'oeuvre intéressante.
   
 ## Arcadia
  ![photo](media/Arcadia_affiche.jfif)
@@ -101,7 +101,7 @@ Photo prise par Olivier Leconte.
     Anton Nikulin : Programmation.
     
 ## Photo à l'appuie
-Il manque beaucoup de photo, donc j'ai seulement pris çeux là. Les photos que je vais vous montrez sont seulement lorsque le projet était même pas finit.
+ Il manque beaucoup de photos, donc j'ai seulement pris celles-là. Les photos que je vais vous montrer sont seulement lorsque le projet n'était même pas fini.
 Voici une photo en action à quoi ressemble Arcadia.
 ![photo](media/Arcadia_en_action.jfif)
 Photo prise par Olivier Leconte.
@@ -120,9 +120,9 @@ Voici à quoi ressemble de l'oeuvre.
   ### Positif
   Une borne d'arcade est toujours la meilleure idée quand il s'agit de faire un jeu vidéo classique très efficace. Rien à rajouter.
   ### Négatif
-  Beaucoup de chose à dire. Premièrement, on ne connait pas complétement comment ils ont fait pour mettre les cables, ils y a quoi dedans,etc.
-  Deuxièmement, le manque d'explication du projet est aussi est problématique. Ce genre de truc est le truc le plus important. 
- 
+ Beaucoup de choses à dire. Premièrement, on ne connaît pas complètement comment ils ont fait pour mettre les câbles, il y a quoi dedans, etc.
+  Deuxièmement, le manque d'explication du projet est aussi est problématique. Ce genre de truc est le truc le plus important.
+  
  ## C0N DU8
 ![photo](media/C0N_DU8_logo.png)
 Resource trouvée et partagée par C0N DU8 sur leur site : https://gearshift-games.github.io/Web-C0N-DU8/#/
@@ -154,9 +154,9 @@ Resource trouvée et partagée par C0N DU8 sur leur site : https://gearshift-gam
    ## Mon ressenti
    
   ### Positif
-  Je trouve que l'idée de faire du biclette est incroyable. Non seulement ça encourage les jeunes et adultes à jouer, mais ça rassemble les personnes qui aiment jouer aux jeux-vidéos et le sport.
+  Je trouve que l'idée de faire du bicyclette est incroyable. Non seulement ça encourage les jeunes et adultes à jouer, mais ça rassemble les personnes qui aiment jouer aux jeux vidéos et au sport.
   ### Négatif
-  Le seul problème est que quand j'étais venu, le jeu n'était pas finit. Le personnage restait droit sans tourner ni à gauche ni à droite. Je suis pas repasser pour voir le projet finale.
+  Le seul problème est que quand j'étais venu, le jeu n'était pas fini. Le personnage restait droit sans tourner ni à gauche ni à droite. Je ne suis pas repassé pour voir le projet final.
   
      
  ## ETHERIA
@@ -240,8 +240,8 @@ Pour finir, Une photo qui montre les prises qui connecte les synthétiseurs et l
   ### Positif
   L'idée de faire un arbre est géniale avec des écrans,mais Rien de plus. 
   ### Négatif
-  Personnellement, J'ai trouvé le projet fade. Le manque de communication, le manque d'action, le manque d'explication du projet, etc. Bref, le projet aurait pu etre géniale, mais le manque de tous les choses nommées précèdement tue un peu le projet.
-  Aussi, on ne comprend pas réellement le but du projet. Sa aurait été geniale de dire par exemple que les écrans pollues les arbres en expliquant pourquoi les écrans sont collés sur l'arbre.  
+  Personnellement, j'ai trouvé le projet fade. Le manque de communication, le manque d'action, le manque d'explication du projet, etc. Bref, le projet aurait pu être génial, mais le manque de toutes les choses nommées précèdement tue un peu le projet.
+  Aussi, on ne comprend pas réellement le but du projet. Ça aurait été genial de dire par exemple que les écrans pollues les arbres en expliquant pourquoi les écrans sont collés sur l'arbre.  
 
 ## Internarture 
 ![photo](media/Internature_affiche.jfif)
