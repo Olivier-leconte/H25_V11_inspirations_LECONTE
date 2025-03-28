@@ -36,8 +36,11 @@ Voici une plantation qui résume comment ils voulaient faire pour mettre leur oe
 Resource trouvée et partagée par Prismatica sur leur site :  https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/ 
 
  ## Mon ressenti
+ 
   ### Positif
+  Je trouve que l'idée d'entendre les couleurs est d'une créativité incroyable. À part ça, je n'ai pas d'autres opinions.
   ### Négatif
+  Malheuresement, l'execution de l'idée est un mal fait. Je trouve qu'il manque d'explication. Lors de ma visite, je n'ai pas trouvé l'équipe vraiment intéressant. Parfois, il manquait des explications. Aussi, le son était pas en synchro avec ce qu'on dessinait.
 
 ## Luminatura
 ![photo](media/Luminatura_affiche.jfif)
@@ -76,8 +79,9 @@ Photo prise par Olivier Leconte.
   ## Mon ressenti
   
    ### Positif
-   
+  Je trouve que l'oeuvre visuellement est magnifique. Les fleurs sont posés sur le mur et qui interagisaient avec le projecteur. L'idée lorsqu'on touche les plaques métalliques et qu'ils permettent t'interagir avec l'oeuvre est incroyable. D'un tel spectacle.  
   ### Négatif
+  Le seul défaut que j'ai pu trouver est le manque de couleurs. Je trouve que lorsqu'on  
   
 ## Arcadia
  ![photo](media/Arcadia_affiche.jfif)
@@ -90,7 +94,7 @@ Photo prise par Olivier Leconte.
     Anton Nikulin : Programmation.
     
 ## Photo à l'appuie
-Il manque beaucoup de photo, donc j'ai seulement pris çeux là. Les photos que je vais vous montrez sont seulement lorsque le projet etait même pas finit.
+Il manque beaucoup de photo, donc j'ai seulement pris çeux là. Les photos que je vais vous montrez sont seulement lorsque le projet était même pas finit.
 Voici une photo en action à quoi ressemble Arcadia.
 ![photo](media/Arcadia_en_action.jfif)
 Photo prise par Olivier Leconte.
@@ -247,6 +251,13 @@ Photo prise par Olivier Leconte.
    Voici une photo de l'ensemble de l'oeuvre
    ![photo](media/Internature_vue_ensemble.jfif)
    Photo prise par Olivier Leconte.
+
+   ## Mon ressenti
+   
+  ### Positif
+  Parler de la nature est toujours un sujet que j'aime beaucoup. J'aime tellement l'idée de mettre une boule au milieu et de voir les fleurs monter graduellement est tellement beau. Quand j'y étais allé il y avait Kenza El Harrif, une femme brillante qui a réussi à conquérir mon coeur juste en trouvant les bons mots.
+  ### Négatif
+  J'aurais juste aimé voir plusieurs animations de fleurs. 
 
    ## Plantation 
 
