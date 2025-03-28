@@ -271,8 +271,7 @@ Photo prise par Olivier Leconte.
 
    ## Plantation 
 Voici la structure vue d'en haut.
-![photo](media/Internature_plantation_de_la_serre_projet(vue_de_haut).jpg)
-#
+![photo](media/Internature_plantation de la serre_ projet_vue 3D.jpg)
 Le connecteur.
 ![photo](media/Internature_plantation_connecteur.jpg)
 #
