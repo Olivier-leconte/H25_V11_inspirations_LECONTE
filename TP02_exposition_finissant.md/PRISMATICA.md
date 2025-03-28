@@ -26,9 +26,13 @@ L'espace  vu d'un autre angle.
  ## Les Matériaux utilisés
 
  ### Caméra
- 
- 
+ La caméra a été donné par l'école.
+![photo](media/Prismatica_camera.jpg) 
+Resource trouvée et partagée par Prismatica sur leur site : https://pootpookies.github.io/Prismatica/#/40_maquette/
+ #
  ### Processeurs et Ordinateurs
+L'ordinateur été donné par l'école.
+![photo](media/Prismatica_ordinateur.jpg)
 
  ### Diffusion et affichage
 
