@@ -282,6 +282,13 @@ La sphère.
 Pour finir la vue de haut
 ![photo](media/Internature_plantation_vue_de_haut.jpg)
 
+
+
+
+## Pour finir
+
+Je ne savait pas que la kinect pouvait être utilisé comme un detecteur de mouvement autre sur la console xbox. Cela ma vraiment surpris de le voir dans l'oeuvre ETHERIA.
+
     
    
    
