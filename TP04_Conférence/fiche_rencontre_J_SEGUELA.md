@@ -14,7 +14,7 @@
 
   # Conclusion
 
-    Pour conclure, la conférence de Sade Séguéla m'a vraiment plu, car elle nous a fait ressentir de la joie et de la passion a travers ses mots. Aussi, j'ai vraiment l'aspect multimedia qu'offre Shadow Tuner, des leds, des cameras, des manettes pour controller la sphere, 
-    Des hauts-parleurs, etc. Malheureusement, ce genre de multimédia ne m'interesse pas trop, mais je trouve comment et pourquoi l'avoir fait est magnifique.
+   Pour conclure, la conférence de Sade Séguéla m'a vraiment plu, car elle nous a fait ressentir de la joie et de la passion a travers ses mots. Aussi, j'ai vraiment l'aspect multimedia qu'offre Shadow Tuner, des leds, des cameras, des manettes pour controller la sphere, 
+   Des hauts-parleurs, etc. Malheureusement, ce genre de multimédia ne m'interesse pas trop, mais je trouve comment et pourquoi l'avoir fait est magnifique.
 
 
