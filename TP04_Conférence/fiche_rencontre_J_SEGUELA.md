@@ -15,7 +15,7 @@
    
    Photo de la sphere en action utilisé par un couple.
    ![photo](Media/sphere_photo_RLH.png)
-   Photo prise par Lance Gerber. Site :https://www.lozano-hemmer.com/showimage_emb.php?proj=shadow_tuner&img=abu_dhabi_2023&idproj=410&type=artwork&id=10
+   Photo prise par Obaid AlBudoor. Site :https://www.lozano-hemmer.com/showimage_emb.php?proj=shadow_tuner&img=abu_dhabi_2023&idproj=410&type=artwork&id=10
 
    
    
