@@ -11,6 +11,8 @@
 
    Premièrement, lors de la conférence, Jade Séguéla nous a parlez de seulement deux oeuvres pendant la conférence. Aujourd'hui, Je compte parler de <Shadow Tuner>. Il s'agit d'une sphère qui représente la terre. Elle permet de jouer une station de radio 
    n'importe où dans le monde lorsque vous pointez la direction du pays. Elle permet aux personnes d'entendre diverses musique à travers le monde. L'objectif du studio est d'interagir avec le monde qui chose faite.
+   #
+   
 
   # Conclusion
 
