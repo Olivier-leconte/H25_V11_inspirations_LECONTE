@@ -33,5 +33,5 @@ Une photo de plus près de la télévision sans personne
 
 
 Là ce trouve le casque de réalité augmentée, la manette, la relieur de cable et le livre.
-![photo](Media/Mise_exposition_realite_augmentee_sept_corbeaux_L_O_L.png)
+![photo](Media/Mise_exposition_realite_augmentee_sept_corbeaux_L_O_L.
 Photo prise par Olivier Leconte
