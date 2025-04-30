@@ -25,14 +25,17 @@ Ils ont mis une grande image devant l’entrée permettant de voir à quoi resse
 Après, pendant la mise en exposition, il y a une petite table qui tenait tout l’équipement. Ensuite, un rideau qui bloquait la lumière pour avoir une sensation correcte. Pour finir, il avait une affiche qui montrait 
 les remerciements envers le personnel ainsi que toutes les personnes qui avaient travaillé dessus. Avant, voici un dessin fait par Olivier Leconte pour vous illustrer à quoi ressemble l'endroit.
 #
+
+#
 Voici une photo à quoi ressemblait l'emplacement où il y avait une télévision.
 ![photo](Media/exposition_television_sept_corbeaux_K_C.jpg)
 Photo prise par Kevin Calixte et prise sur le site officiel Place des Arts: https://www.placedesarts.com/evenement/storyteller-les-sept-corbeaux
+
 #
 Une photo de plus près de la télévision avec personne à l'horizon.
 ![photo](Media/exposition_television_pres_sept_corbeaux_L_O_L.png)
 Photo prise par Olivier Leconte
-
+#
 
 Là ce trouve le casque de réalité augmentée, la manette, la relieur de cable et le livre.
 ![photo](Media/exposition_realite_augmentee_sept_corbeaux_L_O_L.png)
