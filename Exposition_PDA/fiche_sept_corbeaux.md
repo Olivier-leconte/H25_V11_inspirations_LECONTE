@@ -26,4 +26,6 @@ les remerciements envers le personnel ainsi que toutes les personnes qui avaient
 Voici une photo à quoi ressemblait l'emplacement où il y avait une télévision.
 ![photo](Media/Mise_exposition_télévision_K_C.jpg)
 Photo prise par Kevin Calixte et prise sur le site officiel Place des Arts: https://www.placedesarts.com/evenement/storyteller-les-sept-corbeaux
+#
+Voici à quoi ressemble de plus près l'affiche de credit de Jim Henson’s The Storyteller: Les sept corbeaux.
 
