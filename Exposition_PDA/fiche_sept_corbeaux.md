@@ -15,7 +15,7 @@ C’est l’histoire d’une fille qui a vu le jour dans une famille de fermiers
 sans aucune trace. Alors, plus vieille elle va aller les chercher. L'exposition a été créé par Felix & Paul Studios et présentée en 2023 lors d’une compétition officielle dans le cadre du programme Venice Immersive du Festival international du film de Venise 2023.
 #
 Une image du logo Les sept corbeaux. 
-![photo](Media/titre_02_les_sept_corbeaux_L_O_L.png)
+![photo](Media/les_sept_corbeaux_logo_L_O_L.png)
 Photo prise par Olivier Leconte
 
 
