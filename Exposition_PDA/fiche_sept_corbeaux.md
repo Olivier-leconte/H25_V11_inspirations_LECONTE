@@ -54,3 +54,7 @@ La photo du casque de réalité augmentée.
 ![photo](Media/casque_realite_augmentee_sept_corbeaux_L_O_L.png)
 Photo prise par Olivier Leconte
 
+### La manette
+Deuxièmement, la manette sert à interagir avec le jeu. Malheureusement, dans ce contexte la manette servait à rien.
+![photo](Media
+
