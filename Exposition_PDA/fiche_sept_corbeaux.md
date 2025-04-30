@@ -39,3 +39,9 @@ Photo prise par Olivier Leconte
 Là ce trouve le casque de réalité augmentée, la manette, la relieur de cable et le livre.
 ![photo](Media/exposition_realite_augmentee_sept_corbeaux_L_O_L.png)
 Photo prise par Olivier Leconte
+
+
+## Composants
+
+Maintenant, allons plus en profondeur concernant les composants. Dans l’image que vous vous apreter à voir, vous pourriez voir les éléments qui permettent de faire fonctionner l'exposition.
+
