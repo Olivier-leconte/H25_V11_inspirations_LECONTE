@@ -44,5 +44,10 @@ Photo prise par Olivier Leconte
 ## Composants
 
 Maintenant, allons plus en profondeur concernant les composants. Dans l’image que vous vous apreter à voir, vous pourriez voir les éléments qui permettent de faire fonctionner l'exposition.
-![photo](
+![photo](Media/composants_ensemble_sept_corbeaux_L_O_L.png)
+Photo prise par Olivier Leconte
+
+### Le casque
+Premièrement, nous avons le casque. Il permet de voir la réalité augmentée et d'interagir. L'utilisateur,lui, peut voir en temps réel ce qui ce passe entre le jeu et le monde réel.
+Juste à coté de l'oreille, possède un mini haut-parleur qui permet d'entendre le son.
 
