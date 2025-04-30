@@ -60,8 +60,10 @@ Photo prise par Olivier Leconte
 
 ### Le connecteur
 Il sert juste à relier le casque et permettre de fonctionner les deux.
-![photo](Media
+![photo](Media/connecteur_realite_augmentee_sept_corbeaux_L_O_L.png)
 Photo prise par Olivier Leconte
 
+### Le livre
+Le gros morceaux du casse tête. Grâce au livre, on peut tourner les pages et voir les personnages bouger dessus.
 
 
