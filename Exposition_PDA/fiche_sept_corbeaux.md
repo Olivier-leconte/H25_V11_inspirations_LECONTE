@@ -53,4 +53,6 @@ Premièrement, nous avons le casque. Il permet de voir la réalité augmentée e
  #
 ![photo](Media/fonctionnement_casque_realite_augmentee_L_O_L.avif)
 Photo prise sur le site ucmfinal.store : https://www.ucmfinal.store/?path=page/ggitem&ggpid=500095
+# 
+La photo du casque de réalité augmentée.
 
