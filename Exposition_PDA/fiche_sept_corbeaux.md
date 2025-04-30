@@ -4,7 +4,7 @@ Photo prise par Olivier Leconte
 
 ## Date 
 
-Bonjour, je vais vous parler de l'exposition Jim Henson’s The Storyteller: Les sept corbeaux.J'ai eu le
+Bonjour, je vais vous parler de l'exposition Jim Henson’s The Storyteller: Les sept corbeaux. J'ai eu le
 plaisir de visiter l’œuvre le 20 février 2025 à la Place des Arts en fin de journée au centre ville pour
 le cours œuvre et dispositif multimédia.
 
