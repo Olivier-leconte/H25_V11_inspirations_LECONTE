@@ -55,4 +55,6 @@ Premièrement, nous avons le casque. Il permet de voir la réalité augmentée e
 Photo prise sur le site ucmfinal.store : https://www.ucmfinal.store/?path=page/ggitem&ggpid=500095
 # 
 La photo du casque de réalité augmentée.
+![photo](Media/casque_realite_augmentee_les_sept_corbeaux_L_O_L.png)
+Photo prise par Olivier Leconte
 
