@@ -44,4 +44,5 @@ Photo prise par Olivier Leconte
 ## Composants
 
 Maintenant, allons plus en profondeur concernant les composants. Dans l’image que vous vous apreter à voir, vous pourriez voir les éléments qui permettent de faire fonctionner l'exposition.
+![photo](
 
