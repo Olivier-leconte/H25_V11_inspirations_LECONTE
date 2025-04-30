@@ -49,6 +49,8 @@ Photo prise par Olivier Leconte
 
 ### Le casque
 Premièrement, nous avons le casque. Il permet de voir la réalité augmentée et d'interagir. L'utilisateur,lui, peut voir en temps réel ce qui ce passe entre le jeu et le monde réel.
-Juste à coté de l'oreille, possède un mini haut-parleur qui permet d'entendre le son.
+ Dans le casque possède des capteurs de mouvement et ceux-ci capturent les mouvements de la tête et ajustent l'affichage pour correspondre à votre point de vue.Juste à coté de l'oreille, possède un mini haut-parleur qui permet d'entendre le son.
+ #
 ![photo](Media/fonctionnement_casque_realite_augmentee_L_O_L.avif)
+Photo prise sur le site ucmfinal.store : https://www.ucmfinal.store/?path=page/ggitem&ggpid=500095
 
