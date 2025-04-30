@@ -23,7 +23,7 @@ Photo prise par Olivier Leconte
 
 Ils ont mis une grande image devant l’entrée permettant de voir à quoi ressemble l’exposition. Ensuite, il y avait une grande télévision avec des casques qui expliquait la production et le développement de l’œuvre.
 Après, pendant la mise en exposition, il y a une petite table qui tenait tout l’équipement. Ensuite, un rideau qui bloquait la lumière pour avoir une sensation correcte. Pour finir, il avait une affiche qui montrait 
-les remerciements envers le personnel ainsi que toutes les personnes qui avaient travaillé dessus.
+les remerciements envers le personnel ainsi que toutes les personnes qui avaient travaillé dessus. Avant, voici un dessin fait par Olivier Leconte pour vous illustrer à quoi ressemble l'endroit.
 #
 Voici une photo à quoi ressemblait l'emplacement où il y avait une télévision.
 ![photo](Media/exposition_television_sept_corbeaux_K_C.jpg)
