@@ -15,7 +15,7 @@ Le resumer de l'histoire en détail.
 Photo prise par Olivier Leconte
 
 
-##  Éléments nécessaires à la mise en exposition
+##  Éléments nécessaires à la mise en exposition + vue d'ensemble
 
 Ils ont mis une grande image devant l’entrée permettant de voir à quoi ressemble l’exposition. Ensuite, il y avait une grande télévision avec des casques qui expliquait la production et le développement de l’œuvre.
 Après, pendant la mise en exposition, il y a une petite table qui tenait tout l’équipement. Ensuite, un rideau qui bloquait la lumière pour avoir une sensation correcte. Pour finir, il avait une affiche qui montrait 
@@ -65,8 +65,18 @@ Photo prise par Olivier Leconte
 
 ### Le livre
 Le gros morceaux du casse tête. Grâce au livre, on peut tourner les pages et voir les personnages bouger dessus.
-![photo](Media/
+![photo](Media/livre_realite_augmentee_sept_corbeaux_L_O_L.png)
 Photo prise par Olivier Leconte
+
+## Type d'exposition 
+Il s’agit d’une œuvre immersive et interactive ce qui veut dire que nous pouvons interagir avec l’œuvre.  Grâce à la réalité augmentée, le casque nous permet de changer la perspective des scènes. Par exemple : à un moment, 
+le personnage principal va être enfermé derrière des barreaux en glace et pour sortir il faut couper son doigt. Lors de cette scène, en tournant la tête 
+le spectateur peut voir le protagoniste se couper le doigt.
+
+
+## Expérience vécue + appriciation
+Les choses qui m’ont plu sont que c’est la première fois que j’utilise de la réalité augmentée. Le fait que je peux voir depuis le casque et interagir avec le livre et voir des personnages interagir est incroyable. De plus, l’intrigue de l’histoire était vraiment intéressante et à aucun moment on s’ennuyait. La place où il y avait le casque était sombre ce qui donnait une sensation de frisson et de calme. Malheureusement, tout n’était pas rose. Il y avait beaucoup de bogue. Parfois, je me retrouvais à recommencer l’histoire plusieurs fois parce qu’il n’arrivait pas à continuer le programme qui permet de jouer les séquences. Aussi, je portais mes lunettes à ce moment-là, donc j’avais vraiment mal à la tête après cette expérience. Finalement, je mettrais un 8/10. Une belle expérience, mais avec des soucis de technique qui peuvent gâcher l’expérience.
+
 
 
 
