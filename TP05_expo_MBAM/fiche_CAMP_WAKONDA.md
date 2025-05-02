@@ -64,7 +64,7 @@
    ![photo](Media/haut_parleur_01_camp_wakonda_L_O_L.png)
    Photo prise par Olivier Leconte
    #
-   pour terminer, Une deuxième photo de haut-parleur avec un mini projecteur. Il est à gauche le haut-parleur.
+   Pour terminer, Une deuxième photo de haut-parleur avec un mini projecteur. Il est à gauche le haut-parleur.
    ![photo](Media/mini_projecteur_02_haut_parleur_02_camp_wakanda_L_O_L.png)
    
 
