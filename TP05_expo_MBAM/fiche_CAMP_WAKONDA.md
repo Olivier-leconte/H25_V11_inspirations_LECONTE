@@ -29,7 +29,9 @@
 
  ### Les projecteurs de lumière
  Attaché depuis le plafond,ces projecteurs permettaient d'illuminer l'oeuvre puisque la salle était sombre.
- ![photo](Media/
+ ![photo](Media/projecteurs_lumiere_camp_wakonda_L_O_L.png)
+ Photo prise par Olivier Leconte
+ 
 
 
  ### Le projecteur de vidéo
