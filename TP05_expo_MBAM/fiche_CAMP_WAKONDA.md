@@ -1,5 +1,6 @@
 #  Exposition :  Graeme Patterson Camp Wakonda
 ![photo](Media/Vue_ensemble_camp_wakonda_L_O_L.png)
+ Une photo prise par devant montrant la maison, mais pas au complet.
  Photo prise par Olivier Leconte
 
  ## Début 
@@ -26,33 +27,58 @@
  ## Composants
 
  Maintenant, allons plus en profondeur concernant les composants. Dans les images que vous vous apprêtez à voir, vous pourriez voir les éléments qui permettent de faire fonctionner l'exposition.
-
+ #
+ 
  ### Les projecteurs de lumière
  Attaché depuis le plafond,ces projecteurs permettaient d'illuminer l'oeuvre puisque la salle était sombre.
  ![photo](Media/projecteurs_lumiere_camp_wakonda_L_O_L.png)
  Photo prise par Olivier Leconte
  
-
+ #
 
  ### Le projecteur de vidéo
   Acrrocher sur un mur,ce projecteur permettait seulement de lancer une vidéo et grâce à cette vidéo des flammes donnaient l'impression de bouger.
   ![photo](Media/projecteurs_video_camp_wakonda_L_O_L.png)
    Photo prise par Olivier Leconte
-
+   #
+   
  ### Mini projecteurs
-  Il s'agit de huit projecteurs affichant des mini vidéos permettant de comprendre l'oeuvre.
+  Il s'agit de huit projecteurs affichant des mini séquences permettant de comprendre l'oeuvre.
+  voici une des mini projecteurs.
+  ![photo](Media/mini_projecteur_01_camp_wakanda_L_O_L.png)
+   Photo prise par Olivier Leconte
+   #
+   Voici un deuxième mini projecteur.
+   ![photo](Media/mini_projecteur_02_haut_parleur_02_camp_wakanda_L_O_L.png)
+   Photo prise par Olivier Leconte
+   #
+    Pour finir, Voici une troisième photo d'un mini projecteur. Je compte pas mettre les huit parce que cela en fait beaucoup trop.
+   ![photo](Media/mini_projecteur_03_camp_wakanda_L_O_L.png)
+   Photo prise par Olivier Leconte
+   #
+   
 
 
   ### haut-parleurs
-  Il y avait des haut-parleurs accroché dans l'oeuvre juste à coté des mini projecteurs pour jouer du son.
-
+  Il y avait des haut-parleurs accroché dans l'oeuvre juste à coté des mini projecteurs pour jouer du son. Voici la première que j'ai reussi à pendre en photo. 
+   ![photo](Media/haut_parleur_01_camp_wakonda_L_O_L.png)
+   Photo prise par Olivier Leconte
+   #
+   pour terminer, Une deuxième photo de haut-parleur avec un mini projecteur. Il est à gauche le haut-parleur.
+   ![photo](media/mini_projecteur_02_haut_parleur_02_camp_wakanda_L_O_L.png)
+   
 
   ### Des modèles réduits
   Toute l'oeuvre était reposée sur ça. C'était la force du projet. Tout ce qu'on voyait était réduit les arbres, les véhicules, l'herbe, les personages et la maison. 
   honnêtement, je trouve vraiment ces modèles réduits incroyable. On ressent vraiment que tout l'aspect était ça
+  ![photo](Media/modele_reduit_01_camp_wakonda_L_O_L.png)
+   Photo prise par Olivier Leconte
+   #
+   Une deuxième photo d'une des huit séquences.
+  ![photo](Media/modele_reduit_02_camp_wakonda_L_O_L.png)
 
 
-  ## Expérience Vécue
+  ## Expérience Vécue et ce qui ma plu
   Pour commencer, les choses qui m’ont plu sont les modèles réduits. Je trouve que les personnages ainsi que les objets sont très bien faits. On ressent cette sensation de gêne, et cette gêne est incroyable.
   Aussi, l’atmosphère était réussie : on ressent vraiment l’aspect étrange et la nostalgie. En revanche, je trouvais qu’il était très facile de se perdre. Je n’avais pas très bien compris l’œuvre,
   et cela m’avais pris plusieurs minutes pour la comprendre.Aussi, l'oeuvre on ne pouvait pas trop  intéragir avec et je trouve cela vraiment dommage. Bref, je note l'exposition de Graeme Patterson Camp Wakonda une note de 6/10.
