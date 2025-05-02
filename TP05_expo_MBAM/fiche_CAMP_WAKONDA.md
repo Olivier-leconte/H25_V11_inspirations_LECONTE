@@ -1,11 +1,13 @@
 #  Exposition :  Graeme Patterson Camp Wakonda
-
+![photo](Media/Vue_ensemble_camp_wakonda_L_O_L.png)
  Photo prise par Olivier Leconte
 
  ## Début 
  Bonjour, aujourd'hui je vais vous parler d'une exposition que j'ai eu la chance de participer. Il s'agit de Camp Wakonda. je suis y aller le 3 Avril 2025.
  L'oeuvre à été Créé en 2013, Camp Wakonda fait partie d’une série appelée Secret Citadel. Une série qui a pour but d’exprimer la perte, la nostalgie et la résilience.
  Dans l’œuvre Camp Wakonda, nous suivons deux amis qui ont fait un accident et depuis, nous les voyant grandir en 8 sections de vidéos.
+ ![photo](Media/Cartel_camp_wakonda_L_O_L.png)
+ Photo prise par Olivier Leconte
 
 
 ## Type d'exposition
@@ -27,6 +29,7 @@
 
  ### Les projecteurs de lumière
  Attaché depuis le plafond,ces projecteurs permettaient d'illuminer l'oeuvre puisque la salle était sombre.
+ ![photo](Media/
 
 
  ### Le projecteur de vidéo
