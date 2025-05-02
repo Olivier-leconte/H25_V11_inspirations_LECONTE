@@ -36,7 +36,8 @@
 
  ### Le projecteur de vidéo
   Acrrocher sur un mur,ce projecteur permettait seulement de lancer une vidéo et grâce à cette vidéo des flammes donnaient l'impression de bouger.
-
+  ![photo](Media/projecteurs_video_camp_wakonda_L_O_L.png)
+   Photo prise par Olivier Leconte
 
  ### Mini projecteurs
   Il s'agit de huit projecteurs affichant des mini vidéos permettant de comprendre l'oeuvre.
