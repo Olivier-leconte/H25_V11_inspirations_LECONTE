@@ -23,7 +23,7 @@
 
  ## Composants
 
- Maintenant, allons plus en profondeur concernant les composants. Dans l’image que vous vous apreter à voir, vous pourriez voir les éléments qui permettent de faire fonctionner l'exposition.
+ Maintenant, allons plus en profondeur concernant les composants. Dans les images que vous vous apprêtez à voir, vous pourriez voir les éléments qui permettent de faire fonctionner l'exposition.
 
  ### Les projecteurs de lumière
  Attaché depuis le plafond,ces projecteurs permettaient d'illuminer l'oeuvre puisque la salle était sombre.
@@ -37,13 +37,13 @@
   Il s'agit de huit projecteurs affichant des mini vidéos permettant de comprendre l'oeuvre.
 
 
-  ### haut-parleur
-  Il y avait un haut-parleur accroché dans l'oeuvre juste à coté des mini projecteurs. Elle permet de jouer du son.
+  ### haut-parleurs
+  Il y avait des haut-parleurs accroché dans l'oeuvre juste à coté des mini projecteurs pour jouer du son.
 
 
   ### Des modèles réduits
-  Toute l'oeuvre était reposée sur ça. C'était la force du projet. 
-
+  Toute l'oeuvre était reposée sur ça. C'était la force du projet. Tout ce qu'on voyait était réduit les arbres, les véhicules, l'herbe, les personages et la maison. 
+  honnêtement, je trouve vraiment ces modèles réduits incroyable. On ressent vraiment que tout l'aspect était ça
 
 
   ## Expérience Vécue
